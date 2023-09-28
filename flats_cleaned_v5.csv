@@ -1,0 +1,1003 @@
+society,price,place,price_per_sqft,bedRoom,bathroom,balcony,floorNum,facing,agePossession,Direction,built_up_area,study room,servant room,store room,pooja room,others,furnishing_type,luxury_score
+"shovanalaya, joramandir",0.22,baguiati,3577.0,2.0,2.0,1,0.0,West,Old Property,East,653.0,0.0,0.0,0.0,0.0,1.0,0.0,6.0
+maa sarada apartment bangur,0.38,bangur,4750.0,2.0,2.0,1,3.0,South,Moderately Old,North,684.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+chandroprova apartments,0.55,garia,8333.0,2.0,2.0,1,3.0,South,Old Property,South,749.0,0.0,0.0,0.0,0.0,0.0,2.0,13.0
+siddha happyville,0.82,rajarhat,6492.0,3.0,2.0,1,19.0,East,Relatively New,East,1080.0,0.0,0.0,0.0,0.0,0.0,0.0,97.0
+rishi enclave apartment,0.36,rajarhat,3735.0,2.0,2.0,2,6.0,South-East,Old Property,East,836.0,0.0,0.0,0.0,0.0,0.0,0.0,87.0
+lake view apartment,0.6,mahamayatala,4379.0,3.0,2.0,1,1.0,South-East,Moderately Old,South,1172.0,0.0,0.0,0.0,0.0,0.0,2.0,28.0
+hiland calcutta riverside,0.2,maheshtala,4474.0,2.0,2.0,1,3.0,South-West,Relatively New,South,557.0,0.0,0.0,0.0,0.0,0.0,0.0,85.0
+sahanagar chs,0.38,kalighat,7916.0,2.0,2.0,2,1.0,South-East,Under Construction,South,528.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0
+mj moti kunj,0.7,tollygunge,6862.0,3.0,2.0,1,2.0,South-East,Old Property,South,873.0,0.0,0.0,0.0,0.0,0.0,2.0,97.0
+panihati pride,0.28,panihati,2750.0,3.0,2.0,1,3.0,South-West,Under Construction,North,875.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0
+bellagio lvl nxt,1.02,rajarhat,4689.0,4.0,4.0,3,3.0,South-East,New Property,East,1915.0,0.0,0.0,0.0,0.0,0.0,0.0,72.0
+signum windmere,0.41,madhyamgram,4363.0,2.0,2.0,1,11.0,South-East,New Property,North,814.0,0.0,0.0,0.0,0.0,0.0,0.0,148.0
+srijoyee,0.35,mukundapur,4052.0,2.0,2.0,1,1.0,South,Moderately Old,South,791.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+hiland greens,0.35,maheshtala,5239.0,3.0,2.0,1,13.0,South-East,Relatively New,South,820.0,0.0,0.0,0.0,0.0,0.0,0.0,85.0
+aster gardens,0.5,rajarhat,4835.0,3.0,2.0,1,1.0,South-West,Relatively New,East,885.0,0.0,0.0,0.0,0.0,0.0,2.0,141.0
+pramila niwas apartment,0.28,kumrakhali,3608.0,2.0,2.0,1,3.0,South-East,Moderately Old,South,664.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0
+perfect sharanya enclave,0.6,rajarhat,4777.0,3.0,2.0,1,3.0,South-West,Relatively New,East,1074.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+merlin maximus,0.6,sodepur,7142.0,2.0,2.0,1,1.0,South-West,Relatively New,North,633.0,0.0,0.0,0.0,0.0,0.0,2.0,54.0
+dtc southern heights,0.69,joka,5036.0,3.0,3.0,2,2.0,South,New Property,South,1096.0,0.0,0.0,0.0,0.0,0.0,0.0,97.0
+diganta,0.75,em bypass,4915.0,3.0,2.0,1,2.0,South-East,Moderately Old,South,1276.0,0.0,0.0,0.0,0.0,1.0,0.0,45.0
+paharpur genexx valley,0.5,thakurpukur,4045.0,3.0,2.0,2,2.0,South,Moderately Old,South,1057.0,1.0,0.0,0.0,0.0,0.0,2.0,173.0
+bengal shelter sisirkunja,0.45,madhyamgram,3827.0,3.0,2.0,2,7.0,East,Moderately Old,North,894.0,0.0,0.0,0.0,0.0,1.0,0.0,80.0
+kalikapur,0.38,kalikapur,4375.0,1.0,2.0,1,2.0,South-East,Moderately Old,South,684.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0
+prudent habitat,0.85,seal lane,7777.0,2.0,2.0,1,1.0,South-East,Relatively New,East,847.0,0.0,0.0,0.0,0.0,0.0,1.0,93.0
+north view apartment,0.36,behala,6636.0,2.0,2.0,1,1.0,North-East,New Property,South,650.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0
+airport tower,0.38,italgacha,3977.0,2.0,2.0,1,2.0,South-West,Moderately Old,North,753.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0
+srijan eternia,0.6,madhyamgram,5687.0,3.0,2.0,1,7.0,South,New Property,North,1138.0,0.0,0.0,0.0,0.0,0.0,0.0,161.0
+ideal aurum,0.61,kamalgazi,5191.0,3.0,2.0,1,14.0,South-East,New Property,South,944.0,0.0,0.0,0.0,0.0,0.0,0.0,29.0
+hiland greens,0.35,maheshtala,4915.0,2.0,2.0,1,8.0,North-East,Relatively New,South,609.0,0.0,0.0,0.0,0.0,1.0,0.0,72.0
+eden city,0.6,behala,3412.0,3.0,3.0,1,12.0,South-East,Relatively New,South,1448.0,0.0,0.0,0.0,1.0,0.0,0.0,95.0
+the banyan tree garden,0.77,new town,8622.0,3.0,2.0,1,5.0,South-East,New Property,East,994.0,0.0,0.0,0.0,0.0,0.0,0.0,60.0
+realtech gharoa,0.56,rajarhat,7000.0,3.0,2.0,1,3.0,North-West,Moderately Old,East,960.0,0.0,0.0,0.0,0.0,0.0,1.0,85.0
+mayfair green wood,0.25,malancha mahi nagar,3472.0,2.0,2.0,0,1.0,North,Relatively New,South,616.0,0.0,0.0,0.0,0.0,0.0,2.0,7.0
+ghadhuli apartment,0.46,bagha jat,4000.0,2.0,2.0,1,4.0,South-East,Old Property,South,873.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0
+naramada apartment,0.33,dum dum,4004.0,2.0,2.0,1,3.0,South-West,Old Property,North,705.0,0.0,0.0,0.0,0.0,0.0,2.0,19.0
+godrej prakriti,0.8,sodepur,5500.0,3.0,2.0,2,10.0,South-West,Moderately Old,North,1163.0,0.0,0.0,1.0,0.0,0.0,2.0,100.0
+siddha town,0.31,rajarhat,3935.0,2.0,2.0,1,4.0,South-East,New Property,East,689.0,0.0,0.0,0.0,0.0,0.0,2.0,107.0
+meena ganga apartment,0.75,krishnapur,5365.0,3.0,2.0,1,5.0,South-East,Old Property,North,1052.0,0.0,0.0,0.0,0.0,0.0,2.0,6.0
+eden pavilion,0.65,fartabad,5118.0,3.0,2.0,1,1.0,South,Moderately Old,South,1086.0,0.0,0.0,0.0,0.0,0.0,0.0,71.0
+sunity apartment,0.28,garia,3200.0,2.0,2.0,1,2.0,East,Moderately Old,South,855.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0
+upasana,0.42,sahapur,4421.0,2.0,2.0,0,0.0,East,Old Property,South,813.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ps panache,1.75,salt lake,12315.0,3.0,2.0,1,19.0,East,Relatively New,North,1173.0,0.0,0.0,1.0,0.0,0.0,2.0,141.0
+maa shitala apartment,0.43,baguiati,3925.0,3.0,2.0,1,1.0,North,Moderately Old,North,915.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ridhi sidhi apartment rishra,0.22,hooghly,2712.0,2.0,2.0,0,4.0,South,Old Property,West,874.0,0.0,0.0,1.0,0.0,0.0,1.0,6.0
+green valley,0.35,kaikhali,4622.0,2.0,2.0,1,3.0,South-West,Old Property,North,657.0,0.0,0.0,0.0,0.0,0.0,0.0,96.0
+bengal shelter sisirkunja,0.46,madhyamgram,4401.0,3.0,2.0,2,6.0,North,Relatively New,North,894.0,0.0,0.0,0.0,0.0,0.0,2.0,160.0
+kendriya vihar phase ii,0.85,dunlop,7083.0,3.0,4.0,3+,3.0,East,Moderately Old,North,1412.0,1.0,0.0,0.0,0.0,0.0,0.0,88.0
+chitrakut dham,0.68,krishnapur,5155.0,3.0,2.0,2,4.0,South,Moderately Old,North,1128.0,0.0,0.0,0.0,0.0,0.0,2.0,138.0
+bcn shyam vihar phase 2,0.7,raghunathpur,5204.0,3.0,2.0,2,5.0,East,Old Property,North,1151.0,0.0,0.0,0.0,0.0,0.0,0.0,86.0
+srijan eternis,0.55,madhyamgram,9734.0,2.0,2.0,1,9.0,East,New Property,North,671.0,0.0,0.0,0.0,0.0,0.0,0.0,112.0
+aprajita housing society,0.45,kal,3627.0,3.0,2.0,2,3.0,South-East,Old Property,North,941.0,0.0,0.0,0.0,0.0,0.0,0.0,31.0
+swastik apartment 2,0.21,bansdroni,3500.0,2.0,2.0,1,1.0,South-East,New Property,South,513.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+konark apartment,0.51,panchasayar,4703.0,3.0,2.0,1,2.0,North,Moderately Old,South,943.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+vasundhara apartment tegharia,0.65,kaikhali,6989.0,2.0,2.0,2,5.0,South,Moderately Old,North,1043.0,0.0,0.0,0.0,0.0,0.0,1.0,110.0
+royal marina apartment,0.25,makhla,2928.0,2.0,2.0,1,2.0,South-East,Relatively New,West,731.0,0.0,0.0,0.0,0.0,0.0,2.0,13.0
+bangur avenue,0.38,lake town,5490.0,2.0,2.0,1,2.0,South-West,Relatively New,North,654.0,0.0,0.0,0.0,0.0,0.0,1.0,59.0
+sai baba apartment,0.55,diamond park,5500.0,3.0,2.0,0,1.0,South-East,Moderately Old,South,1176.0,0.0,0.0,0.0,0.0,0.0,2.0,33.0
+sugam serenity,0.5,sonarpur,3872.0,3.0,2.0,1,1.0,South-East,Relatively New,South,1104.0,0.0,0.0,0.0,0.0,0.0,0.0,66.0
+sanhita township,0.3,new town,3275.0,3.0,2.0,1,6.0,South,New Property,East,784.0,0.0,0.0,0.0,0.0,1.0,0.0,104.0
+greenfield city,0.55,behala,5128.0,3.0,2.0,1,7.0,East,Relatively New,South,934.0,0.0,0.0,0.0,0.0,0.0,0.0,49.0
+green valley,0.9,kaikhali,6206.0,3.0,2.0,2,4.0,North,Old Property,East,1250.0,0.0,0.0,0.0,0.0,1.0,1.0,38.0
+godrej prakriti,0.75,sodepur,5518.0,3.0,2.0,1,8.0,South,Relatively New,North,1163.0,0.0,0.0,0.0,0.0,0.0,1.0,166.0
+nilachal complex,0.35,narendrapur,3428.0,3.0,2.0,1,1.0,South,Old Property,South,898.0,0.0,0.0,0.0,0.0,0.0,0.0,34.0
+prasad residency,1.5,alipore,12605.0,2.0,2.0,2,2.0,West,Old Property,South,1270.0,0.0,0.0,0.0,0.0,0.0,0.0,62.0
+green valley phase 2,0.4,ichapore,4000.0,3.0,2.0,2,1.0,South,Relatively New,North,1068.0,0.0,0.0,0.0,0.0,0.0,2.0,17.0
+fort oasis,2.5,ballygunge,19230.0,3.0,2.0,1,5.0,South-East,Moderately Old,South,1414.0,0.0,0.0,0.0,0.0,0.0,1.0,139.0
+on request,0.7,ultadanga,5982.0,3.0,2.0,1,4.0,South-East,Old Property,North,1001.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+on request,0.58,sodepur,5979.0,3.0,3.0,3,3.0,South-East,Relatively New,North,1125.0,0.0,0.0,0.0,0.0,0.0,1.0,56.0
+ideal aquaview,0.71,new town,7176.0,2.0,2.0,1,3.0,North-East,New Property,East,924.0,0.0,0.0,0.0,0.0,1.0,0.0,62.0
+balaka apartment,1.5,dum dum,7727.0,3.0,3.0,3,7.0,South-East,New Property,North,1882.0,1.0,0.0,0.0,1.0,0.0,1.0,41.0
+prince anwar shah,1.2,pr,9230.0,3.0,3.0,1,3.0,North-West,Old Property,South,1600.0,0.0,0.0,0.0,0.0,0.0,0.0,70.0
+elanta,4.0,ballygunge,12000.0,4.0,4.0,2,1.0,West,New Property,South,2328.0,0.0,1.0,0.0,0.0,0.0,0.0,46.0
+siddha eden lake ville,0.9,bonhooghly,10000.0,3.0,3.0,1,11.0,South-East,Relatively New,North,1000.0,0.0,0.0,0.0,0.0,0.0,2.0,118.0
+skyline harmony,0.9,garia,7468.0,3.0,2.0,1,3.0,North-West,Moderately Old,South,1031.0,0.0,0.0,0.0,0.0,0.0,1.0,104.0
+aashiyana complex,0.52,narayanpur,4740.0,3.0,2.0,1,2.0,North,Relatively New,North,938.0,0.0,0.0,0.0,0.0,0.0,0.0,46.0
+unimark springfield,0.85,rajarhat,6273.0,3.0,2.0,1,9.0,North-East,New Property,East,1159.0,0.0,0.0,0.0,0.0,0.0,0.0,47.0
+diamond city south,1.3,tollygunge,9059.0,3.0,2.0,1,19.0,North-East,Old Property,South,1105.0,0.0,0.0,0.0,0.0,1.0,0.0,123.0
+ideal regency,0.81,behala,5500.0,3.0,2.0,1,9.0,North,Moderately Old,South,1148.0,0.0,0.0,0.0,0.0,0.0,2.0,153.0
+divine,0.41,new garia,4500.0,2.0,2.0,1,3.0,North,Relatively New,South,684.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0
+kalindi housing estate,0.62,kal,5719.0,3.0,2.0,1,4.0,North,Moderately Old,North,924.0,0.0,0.0,0.0,0.0,0.0,0.0,56.0
+kendriya vihar phase 2,0.75,khalisha kota,4662.0,3.0,3.0,3,2.0,South,Relatively New,North,1457.0,0.0,0.0,0.0,0.0,0.0,0.0,55.0
+pratiksha apartments.,0.68,behala,5647.0,3.0,2.0,2,5.0,South,New Property,South,1030.0,0.0,0.0,0.0,0.0,0.0,0.0,49.0
+magnolia city,0.34,barasat,3090.0,3.0,2.0,1,1.0,East,Moderately Old,North,941.0,0.0,0.0,0.0,0.0,0.0,2.0,106.0
+deb bhumi apartment,0.26,dum dum,3586.0,2.0,2.0,1,4.0,North-East,New Property,North,625.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0
+classic enclave,0.58,ballygunge,6444.0,2.0,2.0,1,2.0,North-East,Relatively New,South,770.0,0.0,0.0,0.0,0.0,0.0,0.0,28.0
+mandakranta apartments,0.65,behala,5245.0,4.0,2.0,2,2.0,South-West,Old Property,South,1289.0,1.0,0.0,0.0,1.0,1.0,0.0,24.0
+asha kiran apartments,0.65,krishnapur,4777.0,3.0,2.0,1,4.0,North-West,Old Property,North,1155.0,0.0,0.0,0.0,0.0,0.0,2.0,13.0
+mayfair palms,0.38,sonarpur,4691.0,2.0,2.0,2,3.0,North,Moderately Old,South,928.0,0.0,0.0,0.0,0.0,0.0,0.0,43.0
+panchavati complex,0.4,kaikhali,4678.0,2.0,2.0,1,2.0,East,Old Property,North,722.0,0.0,0.0,0.0,0.0,0.0,2.0,21.0
+"neelisha apartment, southern bypass",0.32,narendrapur,3499.0,2.0,2.0,1,2.0,East,New Property,South,791.0,0.0,0.0,0.0,0.0,0.0,0.0,46.0
+on request,0.31,behala,3647.0,1.0,1.0,1,3.0,East,Relatively New,South,748.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0
+gayatri apartment,0.33,krishnapur,3800.0,2.0,2.0,1,4.0,East,Moderately Old,North,731.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+karunamaya apartment,0.44,dum dum,6241.0,3.0,2.0,1,4.0,East,Old Property,North,925.0,0.0,0.0,0.0,0.0,0.0,0.0,83.0
+sunbright residency,2.35,tollygunge,8794.0,4.0,3.0,3,4.0,South-West,Relatively New,South,2286.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0
+anukriti apartment,0.38,garia,2714.0,3.0,2.0,0,1.0,South-East,Old Property,South,1150.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0
+uttarapan apartment,0.45,dum dum,4620.0,3.0,2.0,1,4.0,North-East,Relatively New,North,1072.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+sagarika apartment,0.09,bhadrakali,2000.0,1.0,1.0,0,1.0,South-West,Moderately Old,West,360.0,0.0,0.0,0.0,0.0,1.0,0.0,6.0
+basdroni,0.28,naktala,6292.0,2.0,1.0,0,0.0,South,Old Property,South,381.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+selimpur road,0.85,dhakuria,6049.0,3.0,2.0,1,1.0,South,Old Property,South,1270.0,0.0,0.0,0.0,0.0,0.0,1.0,41.0
+ideal regency,0.75,behala,5084.0,3.0,2.0,1,5.0,South-East,Moderately Old,South,1256.0,0.0,0.0,0.0,0.0,0.0,0.0,28.0
+siddha xanadu condominium,0.56,rajarhat,6030.0,2.0,2.0,1,9.0,South-East,Relatively New,East,851.0,0.0,0.0,0.0,0.0,1.0,0.0,81.0
+siddha happyville,0.58,rajarhat,5846.0,2.0,2.0,1,19.0,South-East,Relatively New,East,791.0,0.0,0.0,0.0,0.0,0.0,0.0,131.0
+7/3 chandra nath roy road,0.29,tiljala,4500.0,2.0,1.0,0,1.0,South,Old Property,South,556.0,0.0,0.0,0.0,0.0,0.0,1.0,6.0
+on request new,0.46,nayabad,4181.0,3.0,2.0,1,2.0,South-East,Relatively New,South,941.0,0.0,0.0,0.0,0.0,1.0,0.0,31.0
+roop apartment,0.45,subodh garden,4390.0,3.0,2.0,2,0.0,South,Moderately Old,South,877.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bengal peerless anupama housing complex,0.49,kaikhali,5148.0,3.0,2.0,1,0.0,South-East,Old Property,East,906.0,0.0,0.0,0.0,0.0,0.0,0.0,122.0
+subhasini abasan,0.3,garia,3454.0,2.0,2.0,1,2.0,West,Old Property,South,803.0,0.0,0.0,0.0,1.0,0.0,2.0,6.0
+falguni aparmnet,0.3,kalyani,4137.0,2.0,2.0,1,1.0,North,Old Property,North,620.0,0.0,0.0,0.0,1.0,0.0,0.0,25.0
+propterior,1.9,desopriya park,11543.0,3.0,3.0,1,1.0,East,Relatively New,South,1408.0,0.0,0.0,0.0,0.0,0.0,0.0,34.0
+bijoy apartment,0.29,rajarhat,3500.0,2.0,2.0,1,4.0,North-West,Relatively New,East,720.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0
+bina niketan,0.36,rajarhat,3100.0,3.0,2.0,1,1.0,East,Relatively New,East,984.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0
+on request,0.24,dash drone,3000.0,2.0,2.0,1,2.0,West,Relatively New,East,698.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0
+swapnopuron dashdran,0.34,dash drone,3000.0,3.0,2.0,2,2.0,West,Relatively New,East,962.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0
+rudra jyangra battala,0.18,baguiati,2676.0,2.0,2.0,1,1.0,East,Relatively New,North,560.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0
+rudra jyangra battala,0.2,baguiati,2700.0,2.0,2.0,1,2.0,South,Relatively New,North,635.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0
+on request,0.19,baguiati,2697.0,2.0,2.0,1,3.0,South-West,Relatively New,North,614.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0
+rudra jyangra battala,0.3,baguiati,2698.0,3.0,2.0,1,2.0,North-East,Relatively New,North,967.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0
+blue sky jhilbagan,0.21,baguiati,2557.0,2.0,2.0,1,4.0,South-West,Relatively New,North,702.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0
+on request,0.23,baguiati,2652.0,2.0,2.0,1,1.0,West,Relatively New,North,742.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0
+on request,6.88,rowland row,21014.0,4.0,4.0,1,4.0,South,Moderately Old,South,2801.0,0.0,1.0,0.0,0.0,0.0,0.0,54.0
+on request,3.5,alipore,10086.0,4.0,4.0,1,2.0,South,Moderately Old,South,2968.0,0.0,0.0,0.0,0.0,1.0,0.0,54.0
+on request,2.9,alipore,11600.0,4.0,4.0,1,3.0,South,Moderately Old,South,2139.0,0.0,0.0,0.0,0.0,1.0,0.0,54.0
+merlin the one,1.5,tollygunge,11235.0,3.0,2.0,1,4.0,South,Relatively New,South,1142.0,0.0,0.0,0.0,0.0,1.0,0.0,54.0
+southwinds,0.45,garia,4782.0,2.0,2.0,1,9.0,South-East,New Property,South,805.0,0.0,0.0,0.0,0.0,0.0,0.0,179.0
+primarc southwinds,0.45,em bypass,4610.0,2.0,2.0,1,8.0,South-East,Relatively New,South,835.0,0.0,0.0,0.0,0.0,0.0,0.0,186.0
+southwinds,0.45,garia,4629.0,2.0,2.0,1,6.0,South-East,New Property,South,831.0,0.0,0.0,0.0,0.0,0.0,0.0,192.0
+primarc southwinds,0.46,em bypass,4661.0,2.0,2.0,1,6.0,South-East,New Property,South,835.0,0.0,0.0,0.0,0.0,0.0,0.0,199.0
+primarc southwinds,0.68,em bypass,5250.0,3.0,2.0,1,10.0,South,New Property,South,1108.0,0.0,0.0,0.0,0.0,0.0,0.0,186.0
+primarc southwinds,0.75,em bypass,5836.0,3.0,2.0,1,7.0,South-East,Relatively New,South,1099.0,0.0,0.0,0.0,0.0,0.0,0.0,207.0
+on request,3.95,southern avenue,16492.0,4.0,4.0,1,3.0,South,Relatively New,South,2049.0,0.0,0.0,0.0,0.0,1.0,0.0,54.0
+on request new alipore,3.68,alipore,10514.0,5.0,5.0,2,4.0,South,Relatively New,South,2994.0,0.0,0.0,0.0,0.0,1.0,0.0,54.0
+on request,1.85,alipore,10571.0,3.0,3.0,1,2.0,South,Relatively New,South,1497.0,0.0,0.0,0.0,0.0,1.0,0.0,54.0
+flora fountain,1.5,tangra,11450.0,3.0,2.0,1,16.0,South,Relatively New,East,982.0,0.0,1.0,0.0,0.0,0.0,0.0,54.0
+flora fountain,2.0,tangra,10626.0,4.0,3.0,1,19.0,South,Relatively New,East,1610.0,0.0,1.0,0.0,0.0,0.0,0.0,54.0
+on request,1.75,alipore,9090.0,3.0,3.0,1,3.0,South,Moderately Old,South,1647.0,0.0,1.0,0.0,0.0,0.0,0.0,54.0
+on request,4.75,alipore,13194.0,4.0,5.0,1,7.0,South,Relatively New,South,3080.0,0.0,1.0,0.0,0.0,0.0,0.0,54.0
+on request,2.98,southern avenue,11028.0,4.0,3.0,2,5.0,South-East,Relatively New,South,2311.0,0.0,0.0,0.0,0.0,1.0,0.0,54.0
+on request,4.35,alipore,14500.0,4.0,5.0,2,10.0,South,Relatively New,South,2566.0,0.0,1.0,0.0,0.0,0.0,0.0,54.0
+on request,2.7,alipore,7714.0,5.0,5.0,3+,9.0,South,Moderately Old,South,2994.0,0.0,1.0,1.0,0.0,0.0,0.0,54.0
+southwinds,0.45,garia,5107.0,2.0,2.0,1,4.0,South,Relatively New,South,754.0,0.0,0.0,0.0,0.0,1.0,0.0,42.0
+southwinds,0.5,garia,5263.0,2.0,2.0,1,9.0,South,Relatively New,South,813.0,0.0,0.0,0.0,0.0,1.0,0.0,42.0
+southwinds,0.45,garia,5287.0,2.0,2.0,1,2.0,West,Relatively New,South,728.0,0.0,0.0,0.0,0.0,1.0,0.0,42.0
+southwinds,0.45,garia,5119.0,2.0,2.0,1,7.0,West,Relatively New,South,754.0,0.0,0.0,0.0,0.0,1.0,0.0,42.0
+southwinds,0.45,garia,5056.0,2.0,2.0,1,4.0,South,Relatively New,South,753.0,0.0,0.0,0.0,0.0,1.0,0.0,42.0
+southwinds,0.75,garia,6521.0,3.0,2.0,1,6.0,South,Relatively New,South,984.0,0.0,0.0,0.0,0.0,1.0,0.0,42.0
+southwinds,0.5,garia,5144.0,2.0,2.0,1,10.0,South,Relatively New,South,831.0,0.0,0.0,0.0,0.0,1.0,0.0,42.0
+southwinds,0.68,garia,5738.0,3.0,2.0,1,11.0,West,Relatively New,South,1014.0,0.0,0.0,0.0,0.0,1.0,0.0,42.0
+southwinds,0.7,garia,5447.0,3.0,2.0,1,7.0,North-West,Relatively New,South,1099.0,0.0,0.0,0.0,0.0,0.0,0.0,42.0
+srijan eternia,0.46,madhyamgram,4291.0,3.0,3.0,1,2.0,North-East,New Property,North,881.0,0.0,0.0,0.0,0.0,1.0,0.0,54.0
+npr waterside,0.23,sodepur,2513.0,2.0,2.0,2,4.0,South-West,Moderately Old,North,800.0,0.0,0.0,0.0,0.0,1.0,0.0,39.0
+siddha waterfront,0.3,khardah,3636.0,2.0,2.0,1,9.0,South-East,New Property,North,659.0,0.0,0.0,0.0,0.0,1.0,0.0,42.0
+godrej prakriti,0.58,sodepur,5267.0,3.0,2.0,1,19.0,South-East,Relatively New,North,942.0,0.0,0.0,0.0,0.0,1.0,2.0,34.0
+alcove new kolkata prayag,0.52,serampore,5000.0,3.0,3.0,1,24.0,South-East,New Property,West,780.0,0.0,0.0,0.0,0.0,1.0,0.0,47.0
+reliable swabhumi apartment,0.28,sodepur,2900.0,2.0,2.0,2,4.0,North-East,New Property,North,830.0,0.0,0.0,0.0,0.0,1.0,0.0,31.0
+godrej prakriti,0.65,sodepur,4782.0,3.0,2.0,2,19.0,North-West,Moderately Old,North,1163.0,0.0,0.0,0.0,0.0,1.0,1.0,34.0
+clubtown heights,0.65,rathtala,6598.0,2.0,2.0,1,2.0,North-West,Relatively New,North,843.0,0.0,0.0,0.0,0.0,1.0,0.0,54.0
+aryan towers,0.42,madhyamgram,3127.0,2.0,2.0,1,10.0,South-West,Relatively New,North,1207.0,0.0,0.0,0.0,0.0,1.0,0.0,34.0
+on request,0.4,dum dum,3250.0,3.0,2.0,1,1.0,East,Relatively New,North,1060.0,0.0,0.0,0.0,0.0,0.0,0.0,41.0
+on request,0.45,mukundapur,4281.0,2.0,2.0,1,3.0,North,Relatively New,South,899.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0
+on request,0.46,mukundapur,4372.0,2.0,2.0,1,4.0,South,Relatively New,South,898.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+on requst,0.52,mukundapur,4101.0,3.0,2.0,1,1.0,North,Relatively New,South,1091.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+on request,0.62,ch,5016.0,3.0,2.0,1,3.0,North-West,Relatively New,East,1057.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.5,ch,5882.0,2.0,2.0,1,2.0,North-East,Relatively New,East,727.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.5,ch,5882.0,2.0,2.0,1,2.0,West,Relatively New,East,727.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.55,new town,5789.0,2.0,2.0,1,4.0,West,Relatively New,East,813.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.5,new town,5555.0,2.0,2.0,1,3.0,South-East,Relatively New,East,770.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.65,new town,5909.0,3.0,2.0,1,3.0,South-East,Relatively New,East,941.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.68,new town,5333.0,3.0,2.0,1,2.0,North-East,Relatively New,East,1091.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.5,new town,5549.0,2.0,2.0,1,3.0,East,Relatively New,East,771.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.53,new town,5888.0,2.0,2.0,1,4.0,South,Relatively New,East,770.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.71,new town,5440.0,3.0,2.0,1,4.0,South,Relatively New,East,1116.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.55,new town,6043.0,2.0,2.0,1,3.0,North-West,Relatively New,East,778.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.65,new town,5371.0,3.0,2.0,1,3.0,North-East,Relatively New,East,1035.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.7,new town,5384.0,3.0,2.0,1,4.0,North,Relatively New,East,1112.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.68,new town,5440.0,3.0,2.0,1,3.0,North-East,Relatively New,East,1069.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+eco nest,0.58,new town,5686.0,2.0,2.0,2,2.0,South,Relatively New,East,873.0,0.0,0.0,0.0,0.0,0.0,0.0,41.0
+"eco nest, new booking",0.58,new town,5680.0,2.0,2.0,1,1.0,South,Relatively New,East,873.0,0.0,0.0,0.0,0.0,0.0,0.0,64.0
+"eco nest, new booking",0.53,new town,5760.0,2.0,2.0,1,2.0,South-West,Relatively New,East,787.0,0.0,0.0,0.0,0.0,0.0,0.0,77.0
+eco nest,0.49,new town,5861.0,2.0,2.0,1,3.0,North-East,Relatively New,East,715.0,0.0,0.0,0.0,0.0,0.0,0.0,33.0
+"eco nest, new booking",0.52,new town,5836.0,2.0,2.0,1,3.0,North-West,Relatively New,East,762.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0
+sb enterprise,0.8,new town,5333.0,3.0,3.0,1,4.0,North,Relatively New,East,1283.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+sb enterprise,0.55,new town,5092.0,2.0,2.0,2,4.0,South-West,Relatively New,East,924.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+sb enterprise,0.5,new town,4761.0,2.0,2.0,2,4.0,North-West,Relatively New,East,898.0,0.0,0.0,0.0,0.0,0.0,0.0,28.0
+sb enterprise,0.5,new town,4761.0,2.0,2.0,1,2.0,North,Relatively New,East,898.0,0.0,0.0,0.0,0.0,0.0,0.0,28.0
+sb enterprise,0.75,new town,5050.0,3.0,2.0,1,4.0,East,Relatively New,East,1270.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+on request,0.75,new town,5043.0,3.0,2.0,1,4.0,North-West,Relatively New,East,1272.0,0.0,0.0,0.0,0.0,0.0,0.0,28.0
+"sb enterpise, new booking",0.75,new town,5043.0,3.0,2.0,1,1.0,North-East,Relatively New,East,1272.0,0.0,0.0,0.0,0.0,0.0,0.0,28.0
+sb enterprise,0.65,new town,5200.0,3.0,2.0,1,4.0,West,Relatively New,East,1069.0,0.0,0.0,0.0,0.0,0.0,0.0,27.0
+sb enterprise,0.65,new town,5200.0,3.0,2.0,1,3.0,North-East,Relatively New,East,1069.0,0.0,0.0,0.0,0.0,0.0,0.0,28.0
+sb enterprise,0.65,new town,5195.0,3.0,2.0,1,1.0,North-East,Relatively New,East,1070.0,0.0,0.0,0.0,0.0,0.0,0.0,27.0
+sb enterprise,0.65,new town,5200.0,3.0,3.0,1,4.0,North,Relatively New,East,1069.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0
+sb enterprise,0.65,new town,5200.0,3.0,3.0,1,2.0,North,Relatively New,East,1069.0,0.0,0.0,0.0,0.0,0.0,0.0,28.0
+sb enterprise,0.65,new town,5200.0,3.0,2.0,1,3.0,North,Relatively New,East,1069.0,0.0,0.0,0.0,0.0,0.0,0.0,28.0
+sb enterprice,0.74,new town,5033.0,3.0,2.0,1,2.0,South-East,Relatively New,East,1266.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+sb enterprice,0.75,new town,5067.0,3.0,2.0,1,1.0,South-East,Relatively New,East,1266.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0
+"sb enterprice, action area 2",0.72,new town,4871.0,3.0,2.0,2,4.0,South,Relatively New,East,1264.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0
+"sb enterprice, action area 2",0.72,new town,4864.0,3.0,2.0,2,4.0,South-East,Relatively New,East,1266.0,0.0,0.0,0.0,0.0,0.0,0.0,28.0
+adya fountain exotica,0.66,garia,6133.0,2.0,2.0,1,1.0,West,Relatively New,South,920.0,0.0,0.0,0.0,0.0,0.0,0.0,85.0
+sashwaat mandeville garden court 3,2.1,ballygunge,10999.0,3.0,3.0,1,9.0,North,Relatively New,South,1687.0,0.0,0.0,0.0,0.0,0.0,0.0,48.0
+standalone apartment,1.47,southern avenue,10137.0,3.0,2.0,1,4.0,West,Old Property,South,1240.0,0.0,0.0,0.0,0.0,0.0,0.0,54.0
+dip apartment,0.75,nandan kanan,6355.0,3.0,2.0,1,4.0,South-West,Relatively New,South,1009.0,0.0,0.0,0.0,0.0,1.0,0.0,13.0
+magnolia grand,0.41,chotto chandpur,4880.0,2.0,2.0,1,3.0,South,Relatively New,East,719.0,0.0,0.0,0.0,0.0,0.0,0.0,104.0
+magnolia grand,0.47,chotto chandpur,3827.0,3.0,2.0,2,2.0,South,Relatively New,East,1050.0,0.0,0.0,0.0,0.0,0.0,0.0,104.0
+mahendra bhawan,0.31,rajarhat,3400.0,2.0,2.0,1,4.0,South,Relatively New,East,769.0,0.0,0.0,0.0,0.0,0.0,0.0,96.0
+sadhnaloy rajarhat appartment,0.23,rajarhat,2956.0,2.0,2.0,1,2.0,South-East,Relatively New,East,666.0,0.0,0.0,0.0,0.0,0.0,0.0,46.0
+mahendra bhawan,0.31,rajarhat,3494.0,2.0,2.0,1,3.0,South,Relatively New,East,761.0,0.0,0.0,0.0,0.0,0.0,0.0,88.0
+bina apartment,0.28,rajarhat,3300.0,2.0,2.0,1,3.0,South-West,Relatively New,East,719.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+sadhanalay appartment rajarhat,0.31,rajarhat,3000.0,2.0,2.0,1,4.0,South,Relatively New,east,891.0,0.0,0.0,0.0,0.0,0.0,0.0,27.0
+"sadhonalaya apartment, rajarhat",0.23,rajarhat,3000.0,2.0,2.0,1,2.0,South,Relatively New,East,664.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0
+"heritage apartment, barrackpore",0.24,barrackpore,3000.0,2.0,2.0,1,3.0,South,Relatively New,North,684.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+dip apartment,0.85,nandan kanan,6910.0,3.0,2.0,1,1.0,South,Relatively New,South,1052.0,0.0,0.0,0.0,0.0,1.0,0.0,13.0
+dip residency,0.49,new garia,4994.0,3.0,2.0,1,1.0,South-East,Relatively New,South,839.0,0.0,0.0,0.0,0.0,1.0,0.0,7.0
+dip residency,0.39,new garia,5058.0,2.0,2.0,1,2.0,North,Relatively New,South,660.0,0.0,0.0,0.0,0.0,1.0,0.0,7.0
+on request,0.62,nayabad,4568.0,3.0,2.0,1,2.0,South,Relatively New,South,1161.0,0.0,0.0,0.0,0.0,1.0,0.0,7.0
+on request,0.35,krishnapur,4500.0,2.0,2.0,1,3.0,West,Relatively New,North,664.0,0.0,0.0,0.0,0.0,1.0,0.0,6.0
+on request,0.37,krishnapur,4441.0,2.0,2.0,1,2.0,West,Relatively New,North,720.0,0.0,0.0,0.0,0.0,1.0,0.0,7.0
+on request,0.41,krishnapur,4500.0,2.0,2.0,1,2.0,South-West,Relatively New,North,775.0,0.0,0.0,0.0,0.0,1.0,0.0,13.0
+on request,0.35,krishnapur,4500.0,2.0,2.0,1,1.0,East,Relatively New,North,672.0,0.0,0.0,0.0,0.0,1.0,0.0,7.0
+pelican tulip & lotus,0.25,nayabad,3600.0,2.0,2.0,1,1.0,North-East,Relatively New,South,586.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0
+pleasent palace,0.42,narendrapur,4125.0,3.0,2.0,1,3.0,North-East,Relatively New,South,871.0,0.0,0.0,0.0,0.0,0.0,0.0,110.0
+rajwada royal gardens,0.71,narendrapur,7681.0,3.0,2.0,1,10.0,South-East,Relatively New,South,1132.0,0.0,0.0,0.0,0.0,0.0,0.0,97.0
+rajwada royal gardens,0.69,narendrapur,7679.0,3.0,2.0,1,10.0,South-East,Relatively New,South,1097.0,0.0,0.0,0.0,0.0,0.0,0.0,104.0
+windsor heights,1.05,em bypass,6306.0,3.0,2.0,2,7.0,South-East,Relatively New,South,1424.0,0.0,0.0,0.0,1.0,0.0,0.0,97.0
+windsor heights,0.9,em bypass,6016.0,3.0,2.0,1,11.0,South-East,Relatively New,South,1280.0,0.0,0.0,0.0,0.0,0.0,0.0,104.0
+windsor heights,1.0,em bypass,6006.0,3.0,2.0,2,7.0,North-East,Relatively New,South,1424.0,0.0,0.0,0.0,1.0,0.0,0.0,92.0
+ganapati apartment.dumdum cantonment.,0.24,dum dum,3500.0,2.0,2.0,1,2.0,South-East,Relatively New,North,599.0,0.0,0.0,0.0,0.0,1.0,0.0,65.0
+"santosh enclave,sodepure",0.26,sodepur,3000.0,2.0,2.0,1,0.0,South,Relatively New,North,744.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+"santosh enclave,sodepure",0.32,sodepur,3000.0,3.0,2.0,1,1.0,West,Relatively New,North,898.0,0.0,0.0,0.0,0.0,1.0,0.0,34.0
+"santosh enclave, sodepure",0.32,sodepur,3000.0,3.0,2.0,1,4.0,North-East,Relatively New,North,900.0,0.0,0.0,0.0,0.0,1.0,0.0,35.0
+on request,0.17,khardah,2500.0,2.0,2.0,1,3.0,East,Relatively New,North,566.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.17,khardah,2500.0,2.0,2.0,1,2.0,West,Relatively New,North,565.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+parul apartment,0.15,khardah,2500.0,1.0,1.0,1,1.0,South,Relatively New,North,525.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.15,khardah,2500.0,2.0,2.0,1,1.0,South-East,Relatively New,North,530.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+"ganapati apartment, new booking",0.28,dum dum,3500.0,2.0,2.0,1,2.0,South,Relatively New,North,684.0,0.0,0.0,0.0,0.0,0.0,0.0,33.0
+ganapati apartment.dumdum cantonment.dumdum,0.23,dum dum,3500.0,2.0,2.0,1,0.0,South-East,Relatively New,North,556.0,0.0,0.0,0.0,0.0,1.0,0.0,67.0
+"siddhi data villa, new booking",0.27,dum dum,3800.0,2.0,2.0,1,0.0,South-East,Relatively New,North,615.0,0.0,0.0,0.0,0.0,1.0,0.0,67.0
+siddhi data tower. cantonment,0.27,dum dum,3300.0,2.0,2.0,1,4.0,South-East,Relatively New,North,706.0,0.0,0.0,0.0,0.0,1.0,0.0,31.0
+"siddhi data villa, new booking",0.2,dum dum,3300.0,2.0,1.0,0,4.0,South-West,Relatively New,North,513.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0
+"siddhi data villa, new booking",0.35,dum dum,3300.0,2.0,2.0,1,4.0,North-West,Relatively New,North,896.0,0.0,0.0,0.0,0.0,1.0,0.0,31.0
+siddhi data tower.dumdum cantonment,0.35,dum dum,3300.0,2.0,2.0,1,1.0,North-West,Relatively New,North,896.0,0.0,0.0,0.0,0.0,1.0,0.0,73.0
+"siddhi data villa, new booking",0.27,dum dum,3300.0,2.0,2.0,1,4.0,North,Relatively New,North,706.0,0.0,0.0,0.0,0.0,1.0,0.0,65.0
+shivam apartment barrackpore,0.47,barrackpore,2903.0,3.0,2.0,1,3.0,South-West,Relatively New,North,1399.0,0.0,0.0,1.0,1.0,0.0,0.0,65.0
+siddha happyville,0.68,rajarhat,6296.0,2.0,2.0,1,6.0,South-East,Relatively New,East,924.0,1.0,0.0,0.0,0.0,0.0,0.0,104.0
+shelter appartment,0.25,barrackpore,2777.0,2.0,2.0,2,4.0,South-East,Old Property,North,770.0,0.0,0.0,1.0,0.0,0.0,0.0,44.0
+paradise home,0.28,behala,4179.0,2.0,2.0,1,0.0,South,Relatively New,South,573.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0
+paradise home,0.43,behala,4396.0,2.0,2.0,1,1.0,South-East,Relatively New,South,837.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0
+paradise home,0.34,behala,3820.0,2.0,2.0,1,3.0,South,Relatively New,South,761.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0
+paradise home,0.27,behala,3802.0,2.0,2.0,1,1.0,East,Relatively New,South,607.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0
+paradise home,0.34,behala,3863.0,2.0,2.0,1,1.0,South,Relatively New,South,753.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0
+paradise home,0.42,behala,4307.0,3.0,2.0,1,2.0,South-East,Relatively New,South,834.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0
+paradise home,0.26,behala,3513.0,2.0,2.0,1,1.0,South,Moderately Old,South,633.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0
+paradise home,0.32,behala,4315.0,2.0,2.0,1,1.0,South,Relatively New,South,624.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0
+paradise home,0.36,behala,4363.0,2.0,2.0,1,3.0,South,Relatively New,South,706.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0
+paradise home,0.33,behala,4285.0,2.0,2.0,1,3.0,South,Relatively New,South,659.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0
+paradise home,0.57,behala,4384.0,3.0,3.0,1,1.0,North,Relatively New,South,1112.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0
+on request,0.45,em bypass,5235.0,2.0,2.0,1,2.0,South,Relatively New,South,727.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+on request,0.66,purbachal,4551.0,3.0,2.0,1,2.0,North-West,Moderately Old,North,1240.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0
+on request,1.2,em bypass,6486.0,3.0,2.0,1,4.0,North-East,Moderately Old,South,1583.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0
+on request,0.85,em bypass,6746.0,3.0,2.0,1,1.0,South-West,Moderately Old,North,1078.0,0.0,0.0,0.0,0.0,0.0,0.0,39.0
+on request,0.75,anandapur,4901.0,3.0,2.0,1,1.0,South,Moderately Old,South,1309.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0
+realtech nirman 16 aana,0.25,rajarhat,3703.0,2.0,2.0,1,4.0,North-West,Relatively New,East,581.0,0.0,0.0,0.0,0.0,1.0,0.0,34.0
+realtech nirman 16 aana,0.27,rajarhat,3580.0,2.0,2.0,1,2.0,East,Relatively New,East,645.0,0.0,0.0,0.0,0.0,1.0,0.0,34.0
+realtech nirman 16 aana,0.54,rajarhat,3707.0,3.0,2.0,2,2.0,East,Relatively New,East,1251.0,0.0,0.0,0.0,0.0,1.0,0.0,33.0
+on request,1.05,haltu,7000.0,3.0,2.0,1,4.0,South-East,Relatively New,South,1283.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0
+paradise home,0.26,behala,3473.0,2.0,1.0,1,0.0,North,Relatively New,South,642.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0
+paradise home,0.26,behala,3480.0,2.0,1.0,1,0.0,South,Relatively New,South,716.0,0.0,0.0,0.0,0.0,0.0,0.0,54.0
+paradise home,0.17,behala,3888.0,1.0,1.0,1,1.0,South-West,Relatively New,South,385.0,0.0,0.0,0.0,0.0,0.0,0.0,39.0
+paradise home,0.29,behala,3333.0,2.0,2.0,1,0.0,North-West,Relatively New,South,744.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0
+mahendra bhawan,0.29,rajarhat,3524.0,2.0,2.0,1,1.0,West,Relatively New,East,701.0,0.0,0.0,0.0,0.0,0.0,0.0,89.0
+mahendra bhawan,0.32,rajarhat,3595.0,2.0,2.0,1,3.0,South-East,Relatively New,East,761.0,0.0,0.0,0.0,0.0,0.0,0.0,89.0
+paradise home,0.57,behala,4935.0,3.0,2.0,1,3.0,North,Relatively New,South,988.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0
+paradise home,0.36,behala,4285.0,2.0,2.0,1,1.0,North-East,Relatively New,South,719.0,0.0,0.0,0.0,0.0,0.0,0.0,39.0
+paradise home,0.45,behala,4500.0,3.0,2.0,1,1.0,South-West,Relatively New,South,964.0,0.0,0.0,1.0,0.0,0.0,0.0,53.0
+"on request,new booking",0.26,rajarhat,3058.0,2.0,2.0,1,4.0,North,Relatively New,East,727.0,0.0,0.0,0.0,0.0,0.0,0.0,41.0
+om apartment,0.68,behala,5037.0,3.0,2.0,1,2.0,North,Relatively New,South,1155.0,0.0,0.0,0.0,0.0,0.0,0.0,39.0
+bina apartment,0.6,rajarhat,3529.0,3.0,2.0,1,3.0,South-East,Relatively New,East,1454.0,0.0,0.0,0.0,0.0,0.0,0.0,53.0
+bina niketan 2,0.28,rajarhat,3257.0,2.0,2.0,1,3.0,South-West,Relatively New,East,749.0,0.0,0.0,0.0,0.0,0.0,0.0,53.0
+bina niketan 2,0.37,rajarhat,3252.0,3.0,2.0,1,2.0,East,Relatively New,East,984.0,0.0,0.0,0.0,0.0,0.0,0.0,53.0
+bina niketan 2,0.3,rajarhat,3260.0,2.0,2.0,1,2.0,South,Relatively New,East,787.0,0.0,0.0,0.0,0.0,0.0,0.0,66.0
+bina niketan 2,0.25,rajarhat,3285.0,2.0,2.0,1,2.0,South-West,Relatively New,East,659.0,0.0,0.0,0.0,0.0,0.0,0.0,52.0
+sadhanalay apartment,0.3,rajarhat,2899.0,2.0,2.0,1,4.0,South,Relatively New,East,894.0,0.0,0.0,0.0,0.0,0.0,0.0,50.0
+silver green,0.26,rajarhat,2914.0,2.0,2.0,0,1.0,North,Relatively New,East,749.0,0.0,0.0,1.0,0.0,0.0,0.0,40.0
+bina niketan 2,0.27,rajarhat,3100.0,2.0,2.0,1,3.0,South-West,Relatively New,East,749.0,0.0,0.0,1.0,0.0,0.0,0.0,23.0
+bina niketan 2,0.36,rajarhat,3100.0,3.0,2.0,1,1.0,North-East,Relatively New,East,984.0,0.0,0.0,1.0,0.0,0.0,0.0,23.0
+mahendra bhawan,0.28,rajarhat,3400.0,2.0,2.0,1,2.0,North-East,Relatively New,East,712.0,0.0,0.0,1.0,0.0,0.0,0.0,22.0
+mahendra bhawan,0.28,rajarhat,3402.0,2.0,2.0,1,3.0,North-West,Relatively New,East,701.0,0.0,0.0,1.0,0.0,0.0,0.0,22.0
+on request,0.5,anandpur,4237.0,3.0,2.0,1,3.0,East,Moderately Old,South,1009.0,0.0,0.0,0.0,0.0,1.0,0.0,35.0
+mahendra bhawan,0.29,rajarhat,3400.0,2.0,2.0,1,4.0,North-West,Relatively New,East,719.0,0.0,0.0,1.0,0.0,0.0,0.0,70.0
+on request,0.55,anandapur,4782.0,3.0,2.0,2,1.0,South-West,Moderately Old,South,984.0,0.0,0.0,0.0,0.0,1.0,0.0,36.0
+on request,0.55,pr,4782.0,3.0,2.0,1,2.0,South,Relatively New,South,984.0,0.0,0.0,0.0,0.0,1.0,0.0,7.0
+sashwati niwas,0.58,madurdaha,4662.0,3.0,2.0,2,1.0,South-West,Relatively New,South,1064.0,0.0,0.0,0.0,0.0,1.0,2.0,20.0
+on request,0.69,kalikapur,5500.0,3.0,2.0,1,1.0,South,Relatively New,South,1078.0,0.0,0.0,0.0,0.0,1.0,0.0,7.0
+standalone building,0.8,kalikapur,6250.0,3.0,2.0,1,2.0,South,Relatively New,South,1095.0,0.0,0.0,0.0,0.0,0.0,0.0,60.0
+on request,0.75,em bypass,5725.0,3.0,2.0,2,1.0,South-West,Relatively New,South,1121.0,0.0,0.0,0.0,0.0,1.0,0.0,7.0
+on request,0.51,pr,6000.0,2.0,2.0,1,1.0,South-West,Relatively New,South,727.0,0.0,0.0,0.0,0.0,1.0,0.0,7.0
+on request,0.6,nandan kanan,5357.0,3.0,2.0,1,2.0,South-East,Relatively New,South,958.0,0.0,0.0,0.0,0.0,1.0,0.0,7.0
+on request,0.18,anandapur,3956.0,1.0,1.0,1,0.0,East,Relatively New,South,389.0,0.0,0.0,0.0,0.0,1.0,0.0,6.0
+on request,0.85,santoshpur,6513.0,3.0,2.0,1,3.0,North-West,Relatively New,South,1116.0,0.0,0.0,0.0,0.0,1.0,0.0,13.0
+on request,0.45,anandapur,5000.0,2.0,2.0,1,1.0,South-East,Relatively New,South,770.0,0.0,0.0,0.0,0.0,1.0,0.0,7.0
+on request,0.98,em bypass,5764.0,3.0,2.0,1,4.0,South,Relatively New,South,1454.0,0.0,0.0,0.0,0.0,1.0,0.0,7.0
+on request,1.45,anandapur,5178.0,4.0,3.0,1,4.0,East,Relatively New,South,2395.0,0.0,0.0,0.0,0.0,1.0,0.0,7.0
+sharda homes,0.44,em bypass,5000.0,2.0,2.0,1,2.0,East,Relatively New,South,748.0,0.0,0.0,0.0,0.0,0.0,0.0,85.0
+sharda homes,0.49,em bypass,5572.0,2.0,2.0,1,2.0,East,Relatively New,South,748.0,0.0,1.0,0.0,0.0,0.0,0.0,80.0
+sharda homes,0.87,em bypass,5000.0,3.0,3.0,1,1.0,South-East,Relatively New,South,1488.0,0.0,0.0,0.0,0.0,0.0,0.0,85.0
+sd tower,0.3,dum dum,3800.0,2.0,1.0,1,0.0,South-West,Relatively New,North,684.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0
+siddhidata apartment.nagerbazar.dumdum,0.19,dum dum,3800.0,1.0,1.0,0,5.0,North,Relatively New,North,420.0,0.0,0.0,0.0,0.0,1.0,0.0,67.0
+sd tower,0.21,dum dum,3800.0,1.0,1.0,1,5.0,West,Relatively New,North,474.0,0.0,0.0,0.0,0.0,1.0,0.0,74.0
+s d apartment,0.16,dum dum,3800.0,1.0,1.0,0,3.0,South-East,Relatively New,North,360.0,0.0,0.0,0.0,0.0,1.0,0.0,67.0
+siddhi data tower,0.27,dum dum,3799.0,2.0,2.0,1,0.0,South-East,Relatively New,North,615.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0
+on request,0.58,krishnapur,4700.0,3.0,2.0,1,4.0,South-East,Relatively New,North,1056.0,0.0,0.0,0.0,0.0,0.0,0.0,31.0
+bina niketan 2,0.39,rajarhat,3391.0,3.0,2.0,1,2.0,North-East,Relatively New,East,984.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0
+bina niketan 2,0.29,rajarhat,3314.0,2.0,2.0,1,2.0,North,Relatively New,East,749.0,0.0,0.0,0.0,0.0,0.0,0.0,59.0
+arihant garden,0.4,rajarhat,3942.0,2.0,2.0,1,1.0,North-East,Relatively New,East,857.0,0.0,0.0,0.0,0.0,0.0,0.0,81.0
+magnolia oxygen,0.45,rajarhat,4536.0,2.0,2.0,1,6.0,South-West,Relatively New,East,849.0,0.0,0.0,0.0,0.0,0.0,0.0,104.0
+magnolia oxygen,0.65,rajarhat,5204.0,3.0,2.0,1,3.0,South-East,Relatively New,East,1068.0,0.0,0.0,0.0,0.0,0.0,0.0,104.0
+kalibari housing,0.4,rajarhat,4287.0,2.0,2.0,1,1.0,North-West,Relatively New,East,807.0,0.0,0.0,0.0,0.0,0.0,0.0,97.0
+siddha happyville,0.88,rajarhat,6956.0,3.0,3.0,1,16.0,North,Relatively New,East,1082.0,0.0,0.0,0.0,0.0,0.0,0.0,104.0
+siddha happyville,0.64,rajarhat,6564.0,2.0,2.0,1,5.0,South-West,Relatively New,East,834.0,0.0,0.0,0.0,0.0,0.0,2.0,112.0
+realtech nirman bela,0.28,rajarhat,4612.0,2.0,2.0,1,4.0,North,Relatively New,East,527.0,0.0,0.0,0.0,0.0,1.0,2.0,34.0
+realtech nirman bela,0.3,rajarhat,3947.0,2.0,2.0,1,2.0,North-West,Relatively New,East,650.0,0.0,0.0,0.0,0.0,1.0,0.0,41.0
+siddha happyville,0.89,rajarhat,7035.0,3.0,2.0,1,3.0,North-West,Relatively New,East,1082.0,0.0,0.0,0.0,0.0,0.0,0.0,104.0
+abani apartment barrackpore,0.51,barrackpore,3700.0,3.0,2.0,1,2.0,South-East,Relatively New,North,1168.0,1.0,0.0,0.0,1.0,1.0,0.0,39.0
+paradise home,0.34,behala,4311.0,2.0,2.0,1,2.0,East,Relatively New,South,737.0,0.0,1.0,0.0,0.0,1.0,0.0,21.0
+paradise  home,0.34,behala,3777.0,2.0,2.0,1,1.0,South,Relatively New,South,846.0,0.0,1.0,0.0,0.0,1.0,0.0,19.0
+paradise  home,0.33,behala,3892.0,2.0,2.0,1,2.0,North,Relatively New,South,714.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0
+on request,0.28,tollygunge,3599.0,2.0,2.0,1,0.0,South-East,Relatively New,South,654.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+on request,0.28,tollygunge,3664.0,2.0,2.0,1,1.0,West,Relatively New,South,654.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+arch starwood,1.21,ch,8649.0,3.0,2.0,1,1.0,North-West,Relatively New,East,1197.0,0.0,0.0,0.0,0.0,0.0,0.0,132.0
+arihant villa,0.27,rajarhat,3417.0,2.0,2.0,1,4.0,East,Relatively New,East,676.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0
+labanya apartment,0.37,rajarhat,3372.0,3.0,2.0,1,4.0,North,Relatively New,East,938.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0
+new apartment,0.22,baguiati,2800.0,2.0,2.0,1,1.0,North-East,Relatively New,North,678.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+on request,0.2,baguiati,2800.0,2.0,2.0,1,3.0,South-East,Relatively New,North,614.0,0.0,0.0,0.0,0.0,0.0,0.0,31.0
+new apartment,0.32,baguiati baguiati,2800.0,3.0,2.0,1,2.0,North-West,Relatively New,North,967.0,0.0,0.0,0.0,0.0,0.0,0.0,31.0
+jagannath apartment,0.31,behala,3595.0,2.0,2.0,1,3.0,South-West,Relatively New,South,733.0,0.0,0.0,1.0,0.0,0.0,0.0,61.0
+uttara tritiya,1.65,new town,6346.0,3.0,4.0,3+,7.0,South,Moderately Old,East,2224.0,0.0,1.0,0.0,1.0,0.0,0.0,110.0
+surjodoy apartment,0.35,silpara,3349.0,3.0,2.0,1,3.0,South-West,Relatively New,South,898.0,0.0,0.0,1.0,0.0,0.0,0.0,61.0
+mani casa,1.45,new town,10000.0,3.0,2.0,1,8.0,South-West,Moderately Old,East,1088.0,0.0,0.0,0.0,0.0,0.0,0.0,93.0
+dlf new town heights,0.72,new town,5727.0,2.0,2.0,1,2.0,East,Relatively New,East,942.0,0.0,0.0,0.0,0.0,0.0,0.0,221.0
+anik one rajarhat,1.4,new town,18918.0,2.0,2.0,2,12.0,North-West,Relatively New,East,908.0,0.0,0.0,0.0,0.0,0.0,0.0,172.0
+siddha town,0.58,rajarhat,4187.0,3.0,2.0,1,2.0,East,Moderately Old,East,1185.0,0.0,0.0,0.0,1.0,0.0,0.0,124.0
+ambika icon,0.75,tollygunge,8152.0,2.0,2.0,1,4.0,South-East,Relatively New,South,787.0,0.0,0.0,0.0,0.0,1.0,0.0,54.0
+tirupati paradise,0.4,narendrapur,3824.0,2.0,2.0,1,1.0,North-East,Relatively New,South,895.0,0.0,0.0,0.0,0.0,1.0,0.0,104.0
+charuchhaya,0.22,narendrapur,3384.0,2.0,2.0,1,1.0,North-East,Relatively New,South,556.0,0.0,0.0,0.0,0.0,1.0,0.0,54.0
+mission niketan,0.39,sonarpur,3846.0,3.0,2.0,1,3.0,South-West,Relatively New,South,856.0,0.0,0.0,0.0,0.0,1.0,0.0,54.0
+tirupati paradise,0.46,narendrapur,3852.0,3.0,2.0,1,3.0,South-East,Relatively New,South,1021.0,0.0,0.0,0.0,0.0,0.0,0.0,54.0
+smriti subha,0.32,naktala,4266.0,2.0,2.0,1,3.0,South-West,Moderately Old,South,642.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0
+raj rajeshwari apartment,0.35,kamalgazi,4500.0,2.0,2.0,1,4.0,North-East,Relatively New,South,663.0,0.0,0.0,0.0,0.0,0.0,0.0,81.0
+siddha happyville,0.85,rajarhat,6719.0,3.0,3.0,1,2.0,West,Relatively New,East,948.0,0.0,0.0,0.0,0.0,0.0,0.0,212.0
+rameswara waterview,0.38,chotto chandpur,4198.0,2.0,2.0,1,2.0,East,Moderately Old,East,679.0,0.0,0.0,0.0,0.0,0.0,0.0,149.0
+elita garden vista,1.0,new town,7407.0,2.0,2.0,1,23.0,South-East,Moderately Old,East,1107.0,0.0,0.0,0.0,1.0,0.0,2.0,90.0
+amarana residences,0.87,tangra,9344.0,2.0,2.0,1,2.0,South-East,New Property,East,796.0,0.0,0.0,0.0,0.0,1.0,0.0,54.0
+on request,0.44,narendrapur,5238.0,2.0,2.0,1,2.0,North-East,Relatively New,South,727.0,0.0,0.0,0.0,0.0,1.0,0.0,84.0
+on request,3.95,ballygunge,15116.0,3.0,3.0,3,5.0,South,Old Property,South,2235.0,0.0,1.0,0.0,0.0,0.0,0.0,46.0
+on request new alipore,4.69,alipore,13500.0,4.0,4.0,2,2.0,South,Relatively New,South,2972.0,0.0,0.0,0.0,0.0,1.0,0.0,35.0
+standalone building,0.21,sarsuna,2964.0,2.0,2.0,1,0.0,North-West,Relatively New,South,599.0,0.0,0.0,0.0,0.0,0.0,0.0,53.0
+standalone building,0.33,behala,3500.0,2.0,2.0,1,3.0,North-East,Relatively New,South,813.0,0.0,0.0,0.0,0.0,1.0,0.0,59.0
+residential apartment,0.41,barisha,4050.0,3.0,2.0,1,3.0,South-West,Relatively New,South,855.0,0.0,0.0,0.0,0.0,1.0,0.0,65.0
+residential apartment,0.23,bakultala,2705.0,2.0,2.0,1,2.0,South-East,Moderately Old,South,727.0,0.0,0.0,0.0,0.0,1.0,0.0,58.0
+mayfair oasis,0.4,ramchandrapur,3252.0,3.0,2.0,1,2.0,North-East,Relatively New,South,1052.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+sreeram,0.71,bansdroni,5358.0,3.0,2.0,1,3.0,South,New Property,South,1133.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0
+chandi ghosh road,0.65,tollygunge,6500.0,3.0,2.0,1,2.0,South,New Property,South,855.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0
+sadhanjali apartment,0.42,bansdroni,4516.0,2.0,2.0,0,1.0,South,Relatively New,South,796.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0
+on request,0.68,jogendra garden,6181.0,3.0,2.0,1,2.0,North-East,New Property,South,941.0,0.0,0.0,0.0,0.0,0.0,0.0,53.0
+magnolia prestige,0.43,bishnupur,3372.0,3.0,2.0,3,4.0,North-West,Relatively New,North,1091.0,0.0,0.0,0.0,0.0,1.0,0.0,43.0
+on request,0.29,rajarhat,2950.0,2.0,2.0,1,3.0,West,Relatively New,East,841.0,0.0,0.0,0.0,0.0,1.0,0.0,35.0
+atree,1.15,new town,4600.0,6.0,4.0,2,4.0,South,Relatively New,East,2139.0,0.0,0.0,0.0,0.0,1.0,0.0,7.0
+sova apartment,0.61,new town,4880.0,3.0,2.0,2,1.0,East,Relatively New,East,1069.0,0.0,0.0,0.0,0.0,1.0,0.0,7.0
+45by22 moor avenue,0.55,tollygunge,4435.0,3.0,2.0,1,3.0,South,Old Property,South,1061.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0
+on request,1.15,jodhpur park,9000.0,3.0,2.0,2,2.0,North-East,New Property,South,1091.0,0.0,0.0,0.0,0.0,0.0,0.0,39.0
+magnolia oxygen,0.43,rajarhat,4849.0,2.0,2.0,1,6.0,South-East,New Property,East,767.0,0.0,0.0,0.0,0.0,0.0,0.0,48.0
+on request,1.25,ballygunge,9300.0,3.0,2.0,1,3.0,South-East,New Property,South,1151.0,0.0,0.0,0.0,0.0,0.0,0.0,53.0
+on request new booking,1.36,ballygunge,9300.0,3.0,2.0,1,1.0,South-East,Relatively New,South,1249.0,0.0,0.0,0.0,0.0,1.0,0.0,71.0
+residential apartment new booking,0.65,lake gardens,6500.0,2.0,2.0,1,2.0,South-East,Relatively New,South,855.0,0.0,0.0,0.0,0.0,0.0,0.0,47.0
+on request new booking,1.11,pr,6499.0,3.0,3.0,1,3.0,South-East,Relatively New,South,1459.0,0.0,0.0,0.0,0.0,1.0,0.0,78.0
+on request,0.33,new town,3515.0,2.0,2.0,1,4.0,North-East,Relatively New,North,798.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.45,baguiati,3983.0,3.0,2.0,2,4.0,East,Relatively New,North,956.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.34,baguiati,4011.0,2.0,2.0,1,4.0,West,Relatively New,North,736.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+yarrow co operative society,0.77,patuli,6160.0,3.0,2.0,1,3.0,North-East,Old Property,South,1069.0,0.0,0.0,0.0,0.0,0.0,0.0,29.0
+joyee apartment,1.6,naktala,5333.0,4.0,4.0,3+,3.0,North-West,Old Property,South,2566.0,0.0,0.0,0.0,1.0,0.0,2.0,36.0
+ashirbad  apartment,0.67,naktala,5469.0,3.0,2.0,1,1.0,South,Moderately Old,South,1048.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0
+sun bright,2.25,tollygunge,8420.0,4.0,3.0,3,4.0,East,Relatively New,South,2286.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0
+karunamoyee,0.38,haridevpur,4313.0,2.0,2.0,1,1.0,East,Relatively New,South,754.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+kalitala,0.27,sodepur,3176.0,2.0,2.0,1,1.0,East,Relatively New,South,727.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+on request,0.24,kaikhali,3400.0,2.0,2.0,1,2.0,North-West,Relatively New,North,599.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.31,kaikhali,3400.0,2.0,2.0,1,2.0,East,Relatively New,North,770.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.28,kaikhali,3400.0,2.0,2.0,1,2.0,North-West,Relatively New,North,693.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.3,rajarhat,3595.0,2.0,2.0,1,1.0,South-West,Relatively New,East,719.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+shibam aprtment,0.34,rajarhat,3600.0,2.0,2.0,1,2.0,East,Relatively New,East,800.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+bina apartment,0.28,rajarhat,3000.0,2.0,2.0,1,1.0,East,Relatively New,East,787.0,0.0,0.0,0.0,0.0,1.0,0.0,38.0
+dpka manorama residency,0.27,rajarhat,2950.0,2.0,2.0,1,3.0,North,Relatively New,East,775.0,0.0,0.0,0.0,0.0,1.0,0.0,38.0
+dpka manorama residency,0.31,rajarhat,2950.0,2.0,2.0,2,3.0,East,Relatively New,East,892.0,0.0,0.0,0.0,0.0,1.0,0.0,38.0
+dpka manorama residency,0.36,rajarhat,2950.0,3.0,2.0,3,2.0,North-West,Relatively New,East,1044.0,0.0,0.0,0.0,0.0,1.0,0.0,38.0
+on request,0.58,madurdaha,4833.0,3.0,2.0,1,2.0,North-East,Moderately Old,South,1027.0,0.0,0.0,0.0,0.0,1.0,0.0,63.0
+on request,0.41,madurdaha,4555.0,2.0,2.0,2,2.0,South-East,Moderately Old,South,770.0,0.0,0.0,0.0,0.0,1.0,0.0,63.0
+on request,0.51,patuli,6200.0,2.0,2.0,1,3.0,North-East,New Property,South,701.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+magnolia oxygen,0.44,rajarhat,4905.0,2.0,2.0,1,4.0,South-West,Relatively New,East,767.0,0.0,0.0,0.0,0.0,1.0,0.0,48.0
+standalone building,0.25,behala,3500.0,2.0,2.0,1,1.0,North-East,Relatively New,South,620.0,0.0,0.0,0.0,0.0,1.0,0.0,60.0
+on request,1.36,ballygunge,9300.0,3.0,2.0,1,1.0,South-East,New Property,South,1248.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0
+windsor heights,0.95,em bypass,7347.0,3.0,2.0,3,3.0,North-West,Relatively New,South,1106.0,0.0,0.0,0.0,0.0,1.0,0.0,54.0
+essar residency,0.32,dash drone,3219.0,3.0,2.0,2,4.0,North-West,Relatively New,East,850.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+torsa prantika,0.33,fartabad,4342.0,2.0,2.0,1,1.0,South-East,Old Property,South,664.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+rajat avante,0.49,joka,5931.0,2.0,2.0,1,13.0,North-East,Relatively New,South,721.0,0.0,0.0,0.0,0.0,0.0,0.0,57.0
+siddha happyville,0.9,rajarhat,7114.0,3.0,2.0,1,14.0,East,Relatively New,East,1082.0,0.0,0.0,0.0,0.0,0.0,0.0,83.0
+semi complex,0.46,new garia,4000.0,3.0,2.0,1,2.0,South-East,Relatively New,South,994.0,0.0,0.0,0.0,0.0,1.0,0.0,94.0
+semi complex,0.33,new garia,4000.0,2.0,2.0,1,2.0,North-West,Relatively New,South,708.0,0.0,0.0,0.0,0.0,1.0,0.0,75.0
+semi complex,0.25,nayabad,4057.0,2.0,1.0,0,2.0,South-West,New Property,South,536.0,0.0,0.0,0.0,0.0,1.0,0.0,80.0
+siddha eden lakeville,0.89,bt road,6477.0,3.0,3.0,1,10.0,North,Relatively New,North,1175.0,0.0,0.0,0.0,0.0,0.0,0.0,61.0
+on request,0.86,new town,5375.0,3.0,2.0,1,2.0,South-East,Relatively New,East,1369.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.6,new town,4800.0,3.0,2.0,1,3.0,North-West,Relatively New,East,1069.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.47,new town,5875.0,2.0,2.0,1,2.0,East,Relatively New,East,684.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.65,new town,5000.0,3.0,2.0,1,3.0,North,Relatively New,East,1112.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+pacheria kusumba greens,0.3,sonarpur,5014.0,2.0,2.0,1,4.0,South-West,Relatively New,South,749.0,0.0,0.0,0.0,0.0,0.0,0.0,55.0
+not applicable,0.27,kamalgazi,3800.0,2.0,2.0,1,1.0,South,Relatively New,South,615.0,0.0,0.0,0.0,0.0,1.0,0.0,25.0
+on request new,0.3,narendrapur,4195.0,2.0,2.0,1,2.0,South,Relatively New,South,612.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0
+suryalok apartments,1.4,mandevilla garden,12544.0,2.0,2.0,1,3.0,South,Old Property,South,955.0,0.0,1.0,0.0,0.0,0.0,1.0,46.0
+not applicable,2.0,ballygunge,11111.0,3.0,3.0,0,1.0,South,Old Property,South,1540.0,0.0,0.0,0.0,0.0,0.0,2.0,107.0
+ballygunge apartments,0.8,ballygunge,9411.0,2.0,2.0,0,8.0,North-West,Old Property,South,727.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0
+not applicable,1.25,panditiya road,9005.0,3.0,2.0,1,2.0,North-East,Relatively New,South,1187.0,0.0,0.0,0.0,0.0,0.0,0.0,64.0
+natural avenue,4.0,southern avenue,16000.0,4.0,4.0,1,3.0,South,Relatively New,South,2139.0,0.0,0.0,0.0,0.0,0.0,0.0,54.0
+multicon sapphire court,0.75,golf club road,7500.0,2.0,2.0,1,1.0,South-East,Old Property,South,855.0,0.0,0.0,0.0,0.0,0.0,0.0,55.0
+not applicable,0.95,tollygunge,6904.0,3.0,2.0,2,4.0,South-West,Old Property,South,1177.0,0.0,0.0,0.0,0.0,0.0,0.0,33.0
+not applicable,0.95,naktala,6551.0,3.0,2.0,1,3.0,South-East,Moderately Old,South,1240.0,0.0,0.0,0.0,0.0,1.0,0.0,13.0
+bengal shapoorji shukhobristhi,0.55,new town,6043.0,3.0,2.0,1,9.0,East,Relatively New,East,778.0,0.0,0.0,0.0,0.0,0.0,0.0,105.0
+ananda apartment,0.86,madurdaha,5000.0,3.0,3.0,1,2.0,South-East,Relatively New,South,1380.0,0.0,0.0,0.0,0.0,0.0,0.0,94.0
+novelty,0.64,madurdaha,5000.0,3.0,2.0,1,2.0,South-East,Relatively New,South,1020.0,0.0,0.0,0.0,0.0,0.0,0.0,88.0
+amelia,0.38,madurdaha,4500.0,2.0,2.0,1,3.0,East,Relatively New,South,683.0,0.0,0.0,0.0,0.0,0.0,0.0,88.0
+ashirbad alay,0.38,nayabad,4000.0,3.0,2.0,1,3.0,East,Relatively New,South,768.0,0.0,0.0,0.0,0.0,0.0,0.0,88.0
+kriti apartment,0.34,nayabad,4100.0,2.0,2.0,1,2.0,South-East,Relatively New,South,654.0,0.0,0.0,0.0,0.0,0.0,0.0,88.0
+purbayan,0.34,bagha jat,4500.0,2.0,2.0,1,1.0,North-West,Relatively New,South,600.0,0.0,0.0,0.0,0.0,0.0,0.0,67.0
+lake view,0.38,new garai,3800.0,2.0,2.0,1,1.0,South-East,Relatively New,South,804.0,0.0,0.0,0.0,0.0,0.0,0.0,88.0
+pacific sriguru,0.33,garia,3800.0,2.0,2.0,1,2.0,South-East,Relatively New,South,685.0,0.0,0.0,0.0,0.0,0.0,0.0,88.0
+niharika apartment,0.39,nayabad,4162.0,2.0,2.0,1,1.0,North-East,Moderately Old,South,749.0,0.0,0.0,0.0,0.0,0.0,0.0,88.0
+on request,0.26,barrackpore,2600.0,3.0,2.0,1,3.0,North,Relatively New,North,855.0,0.0,0.0,0.0,0.0,1.0,0.0,54.0
+on request(new barrackpur),0.14,barrackpore,2518.0,1.0,1.0,1,1.0,South,Relatively New,North,467.0,0.0,0.0,0.0,0.0,1.0,0.0,54.0
+on request(new booking),0.21,barrackpore,2551.0,2.0,2.0,1,3.0,North-East,Relatively New,North,704.0,0.0,0.0,0.0,0.0,1.0,0.0,54.0
+on request,0.17,madhyamgram,2511.0,2.0,1.0,1,3.0,South-East,Relatively New,North,569.0,0.0,0.0,0.0,0.0,1.0,0.0,54.0
+on request,0.32,madhyamgram,3163.0,3.0,2.0,1,1.0,North,Relatively New,North,871.0,0.0,0.0,0.0,0.0,1.0,0.0,54.0
+roni apartment(new booking),0.34,madhyamgram,2935.0,3.0,2.0,1,4.0,North,Relatively New,North,988.0,0.0,0.0,0.0,0.0,1.0,0.0,54.0
+on request( new booking ),0.17,madhyamgram,2433.0,2.0,1.0,1,3.0,South-East,Relatively New,North,580.0,0.0,0.0,0.0,0.0,1.0,0.0,54.0
+shree ganapati apartment(new booking),0.26,konnagar,2300.0,3.0,2.0,1,2.0,South-East,New Property,West,967.0,0.0,0.0,0.0,0.0,0.0,0.0,79.0
+shree ganapati apartment (new booking),0.2,konnagar,2300.0,2.0,2.0,1,1.0,South-West,New Property,West,744.0,0.0,0.0,0.0,0.0,0.0,0.0,79.0
+shree ganapati apartment(new booking),0.26,konnagar,2300.0,3.0,2.0,1,1.0,North-East,New Property,West,953.0,0.0,0.0,0.0,0.0,0.0,0.0,79.0
+sankari apartment,0.3,dum dum,3488.0,2.0,2.0,1,1.0,South-East,Relatively New,North,736.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0
+siddhivinayak society.,0.43,kaikhali,4523.0,2.0,2.0,1,1.0,South,Relatively New,North,817.0,0.0,0.0,0.0,0.0,1.0,0.0,138.0
+suman apartment,0.26,baguiati,3700.0,2.0,2.0,1,2.0,West,Relatively New,North,599.0,0.0,0.0,0.0,0.0,1.0,0.0,63.0
+on request,0.32,ch,4539.0,2.0,2.0,1,1.0,South,Relatively New,East,615.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0
+on request,0.42,dash drone,4640.0,3.0,2.0,1,2.0,North,Relatively New,East,788.0,0.0,0.0,0.0,0.0,0.0,0.0,31.0
+"on request, new booking",0.46,ch,4239.0,3.0,2.0,2,2.0,North-East,Relatively New,East,944.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0
+on request,0.45,ch,4352.0,3.0,2.0,1,3.0,South,Relatively New,East,900.0,0.0,0.0,0.0,0.0,0.0,0.0,31.0
+ganesh plaza(new booking),0.18,h,2500.0,2.0,2.0,1,3.0,North-East,New Property,West,618.0,0.0,0.0,0.0,0.0,0.0,0.0,71.0
+upoher heights(new booking-semi complex),0.35,konnagar,2700.0,3.0,2.0,2,5.0,South-East,New Property,West,1115.0,0.0,0.0,0.0,1.0,0.0,0.0,88.0
+upoher heights(new booking-semi complex),0.29,konnagar,2700.0,3.0,2.0,1,3.0,South-West,New Property,West,911.0,0.0,0.0,0.0,0.0,0.0,0.0,102.0
+upoher heights(new booking-semi complex),0.29,konnagar,2700.0,2.0,2.0,2,5.0,North-West,New Property,West,924.0,0.0,0.0,0.0,0.0,0.0,0.0,102.0
+upoher heights(new booking-semi complex),0.29,konnagar,2700.0,2.0,2.0,1,1.0,North-East,New Property,West,928.0,0.0,0.0,0.0,0.0,0.0,0.0,102.0
+nexus apartment(new booking),0.14,konnagar,2200.0,2.0,2.0,1,0.0,North-East,New Property,West,543.0,0.0,0.0,0.0,0.0,0.0,0.0,71.0
+nexus apartment (new booking),0.21,konnagar,2450.0,3.0,2.0,1,2.0,North-East,New Property,West,749.0,0.0,0.0,0.0,0.0,0.0,0.0,87.0
+nexus apartment(new booking),0.21,konnagar,2350.0,2.0,2.0,1,1.0,North-West,New Property,West,749.0,0.0,0.0,0.0,0.0,0.0,0.0,87.0
+ghosh apartment(new booking),0.16,h,2400.0,2.0,2.0,1,1.0,North-East,New Property,West,577.0,0.0,0.0,0.0,0.0,0.0,0.0,71.0
+ganesh apartment(new booking),0.14,konnagar,2400.0,2.0,2.0,1,2.0,North-West,New Property,West,515.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0
+jai ganesh apartment(new booking),0.23,konnagar,2500.0,2.0,2.0,1,5.0,South-West,New Property,West,775.0,0.0,0.0,0.0,0.0,0.0,0.0,79.0
+jai ganesh apartment(new booking),0.18,konnagar,2500.0,2.0,2.0,1,5.0,South-East,New Property,West,623.0,0.0,0.0,0.0,0.0,0.0,0.0,87.0
+ganapati apartment(new booking),0.17,konnagar,2300.0,2.0,2.0,1,1.0,South-East,New Property,West,650.0,0.0,0.0,0.0,0.0,0.0,0.0,79.0
+ganapati apartment (new booking),0.16,konnagar,2300.0,2.0,2.0,1,2.0,North-East,New Property,West,578.0,0.0,0.0,0.0,0.0,0.0,0.0,71.0
+ganapati apartment(new booking),0.16,konnagar,2100.0,2.0,2.0,1,0.0,South-East,New Property,West,633.0,0.0,0.0,0.0,0.0,0.0,0.0,71.0
+nsc bose road,1.25,bansdroni,6578.0,3.0,3.0,2,0.0,South-East,Old Property,South,1625.0,0.0,0.0,1.0,0.0,0.0,2.0,34.0
+on request,0.34,baguiati,4200.0,2.0,2.0,1,1.0,North-West,Relatively New,North,692.0,0.0,0.0,0.0,0.0,0.0,0.0,31.0
+sathi apartment(new booking),0.15,konnagar,1804.0,2.0,2.0,1,5.0,South-East,New Property,West,735.0,0.0,0.0,0.0,1.0,0.0,0.0,79.0
+sathi apartment(new booking),0.1,konnagar,2300.0,1.0,1.0,1,0.0,South,New Property,West,363.0,0.0,0.0,0.0,0.0,0.0,0.0,79.0
+on request,0.36,raghunathpur,3800.0,3.0,2.0,1,1.0,South-West,Relatively New,North,821.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0
+on request,0.38,kaikhali,3800.0,3.0,2.0,1,1.0,North,Relatively New,North,855.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0
+ma saroda apartment,0.28,kaikhali,3500.0,2.0,2.0,1,1.0,South,Relatively New,North,678.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0
+ma saroda apartment,0.37,kaikhali,3500.0,3.0,2.0,1,1.0,South-West,Relatively New,North,901.0,0.0,0.0,0.0,0.0,1.0,0.0,77.0
+ma saroda apartment,0.3,kaikhali,3500.0,2.0,2.0,1,1.0,North,Relatively New,North,729.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0
+ma saroda apartments,0.28,kaikhali,3500.0,2.0,2.0,1,1.0,North,Relatively New,North,690.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0
+siddhivinayak apartment.,0.37,kaikhali,3700.0,3.0,2.0,1,2.0,South-East,Relatively New,North,855.0,0.0,0.0,0.0,0.0,1.0,0.0,85.0
+natural view,1.1,ultadanga,5981.0,3.0,2.0,1,1.0,East,Moderately Old,North,1573.0,0.0,0.0,0.0,0.0,0.0,0.0,83.0
+apanjan enclave (new booking),0.21,konnagar,2700.0,2.0,2.0,1,2.0,North-East,New Property,West,663.0,0.0,0.0,0.0,0.0,0.0,0.0,79.0
+jai ganesh apartment(new booking),0.19,konnagar,2500.0,2.0,2.0,1,4.0,South-West,Relatively New,West,648.0,0.0,0.0,0.0,0.0,0.0,0.0,79.0
+jai ganesh apartment(new booking),0.15,konnagar,2500.0,2.0,2.0,1,1.0,North-East,Relatively New,West,522.0,0.0,0.0,0.0,0.0,0.0,0.0,71.0
+jai ganesh apartment (new booking),0.24,konnagar,2500.0,2.0,2.0,1,4.0,East,Relatively New,West,807.0,0.0,0.0,0.0,0.0,0.0,0.0,79.0
+vinayak plaza(new booking),0.3,konnagar,2600.0,3.0,2.0,2,3.0,East,Relatively New,West,997.0,0.0,0.0,0.0,0.0,0.0,0.0,71.0
+vinayak plaza (new booking),0.22,konnagar,2700.0,2.0,2.0,1,2.0,North-West,Relatively New,West,684.0,0.0,0.0,0.0,0.0,0.0,0.0,79.0
+apanjan enclave (new booking),0.22,konnagar,2700.0,2.0,2.0,1,3.0,South-East,Relatively New,West,706.0,0.0,0.0,0.0,0.0,0.0,0.0,87.0
+apanjan enclave (new booking),0.27,konnagar,2700.0,3.0,2.0,2,1.0,North,Relatively New,West,855.0,0.0,0.0,0.0,0.0,0.0,0.0,46.0
+maa tara apartment,0.34,baguiati,4200.0,2.0,2.0,1,3.0,South-East,Relatively New,North,684.0,0.0,0.0,0.0,0.0,0.0,0.0,79.0
+maa tara apartment.,0.42,baguiati,4200.0,3.0,2.0,1,1.0,West,Relatively New,North,855.0,0.0,0.0,0.0,0.0,1.0,0.0,85.0
+maa kalika apartment,0.35,baguiati,3500.0,2.0,2.0,1,4.0,South-East,Relatively New,North,855.0,0.0,0.0,0.0,0.0,1.0,0.0,92.0
+"sanjay tower, new booking",0.39,dum dum,4500.0,2.0,2.0,1,2.0,South,Relatively New,North,732.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0
+"sanjay tower, new booking",0.35,dum dum,4500.0,2.0,2.0,1,2.0,North,Relatively New,North,666.0,0.0,0.0,0.0,0.0,1.0,0.0,136.0
+on request,0.16,kaikhali,3500.0,1.0,1.0,1,0.0,South-East,Relatively New,North,385.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0
+on request,0.52,kaikhali,4500.0,3.0,2.0,1,6.0,South-East,Relatively New,North,984.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0
+on request,0.42,kaikhali,4407.0,2.0,2.0,1,6.0,South-East,Relatively New,North,815.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0
+on request,0.43,kaikhali,4500.0,2.0,2.0,1,1.0,North-East,Relatively New,North,817.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0
+on request,0.41,kaikhali,4500.0,2.0,2.0,1,1.0,North-East,Relatively New,North,787.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0
+on request,0.43,kaikhali,4500.0,2.0,2.0,1,1.0,North-East,Relatively New,North,815.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0
+on request,0.39,baguiati,4200.0,2.0,2.0,1,2.0,North-West,Relatively New,North,800.0,0.0,0.0,0.0,0.0,0.0,0.0,31.0
+on request,0.37,baguiati,4200.0,2.0,2.0,1,3.0,North-West,Relatively New,North,761.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+on request,0.42,baguiati,4200.0,3.0,2.0,1,1.0,North-West,Relatively New,North,855.0,0.0,0.0,0.0,0.0,0.0,0.0,28.0
+maa tara apartment,0.31,baguiati,3875.0,2.0,2.0,1,3.0,South-East,Moderately Old,North,692.0,0.0,0.0,0.0,0.0,0.0,2.0,24.0
+on request,0.36,baguiati,3796.0,2.0,2.0,1,5.0,East,Relatively New,North,822.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+on request,0.36,baguiati,3800.0,2.0,2.0,1,1.0,East,Relatively New,North,821.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0
+on request,0.32,baguiati,4000.0,2.0,1.0,1,2.0,North,Relatively New,North,684.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+on request,0.4,baguiati,4200.0,2.0,2.0,1,2.0,East,Relatively New,North,821.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0
+"on request, new booking",0.32,baguiati,4200.0,2.0,2.0,1,1.0,South-East,Relatively New,North,650.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0
+mayfair white field,0.29,narendrapur,3186.0,2.0,2.0,1,3.0,South-East,Relatively New,South,778.0,0.0,0.0,0.0,0.0,1.0,0.0,123.0
+mayfair white field,0.31,narendrapur,3200.0,2.0,2.0,1,1.0,South-West,Relatively New,South,821.0,0.0,0.0,0.0,0.0,1.0,0.0,121.0
+mayfair white field,0.31,narendrapur,3200.0,2.0,2.0,1,4.0,East,Relatively New,South,830.0,0.0,0.0,0.0,0.0,1.0,0.0,121.0
+mayfair platinum,0.28,baruipur,3300.0,2.0,2.0,1,1.0,North-East,Relatively New,South,719.0,0.0,0.0,0.0,0.0,1.0,0.0,129.0
+mayfair platinum,0.3,baruipur,3300.0,2.0,2.0,1,2.0,South,Relatively New,South,770.0,0.0,0.0,0.0,0.0,0.0,0.0,131.0
+mayfair platinum,0.35,baruipur,3300.0,3.0,2.0,1,1.0,North-East,Relatively New,South,915.0,0.0,0.0,0.0,0.0,1.0,0.0,129.0
+mayfair platinum,0.28,baruipur,3300.0,2.0,2.0,1,3.0,South-West,Relatively New,South,719.0,0.0,0.0,0.0,0.0,1.0,0.0,139.0
+mayfair platinum,0.37,baruipur,3300.0,3.0,2.0,1,4.0,South-East,Relatively New,South,954.0,0.0,0.0,0.0,0.0,1.0,0.0,108.0
+on request,0.11,baguiati,2286.0,1.0,1.0,1,0.0,East,Relatively New,North,411.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0
+airavat apartment,0.5,dum dum,4500.0,3.0,2.0,1,4.0,South-East,New Property,North,958.0,0.0,0.0,0.0,1.0,0.0,0.0,81.0
+"on request, new booking",0.43,kaikhali,4500.0,2.0,2.0,1,1.0,North-East,Relatively New,North,815.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0
+on request,0.86,new town,7166.0,3.0,2.0,2,3.0,East,Relatively New,East,1027.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.85,new town,6538.0,3.0,2.0,1,4.0,West,Relatively New,East,1112.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.9,new town,6428.0,3.0,2.0,1,3.0,South-West,Relatively New,East,1198.0,0.0,0.0,0.0,0.0,1.0,0.0,56.0
+nakshtra apartment,0.18,baguiati,2571.0,2.0,2.0,1,2.0,East,Relatively New,East,582.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0
+on request,0.55,new town,6875.0,2.0,2.0,1,3.0,West,Relatively New,East,684.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.58,new town,5888.0,2.0,2.0,1,3.0,East,Relatively New,East,843.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.78,new town,6500.0,3.0,2.0,1,3.0,South-West,Relatively New,East,1027.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.75,new town,6000.0,3.0,2.0,1,3.0,South-West,Relatively New,East,1069.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.83,new town,5669.0,3.0,2.0,2,2.0,North,Relatively New,East,1252.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.85,new town,5806.0,3.0,2.0,2,1.0,North-West,Relatively New,East,1252.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.44,new town,4489.0,2.0,2.0,1,3.0,North-East,Relatively New,East,838.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.64,new town,5120.0,3.0,2.0,1,3.0,North-West,Relatively New,East,1069.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.45,new town,4591.0,2.0,2.0,1,3.0,South-West,Relatively New,East,838.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.63,new town,5040.0,3.0,2.0,1,3.0,South-West,Relatively New,East,1069.0,0.0,0.0,0.0,0.0,1.0,0.0,70.0
+on request new,0.47,nayabad,4000.0,3.0,2.0,1,3.0,South-East,Relatively New,South,1001.0,0.0,0.0,0.0,0.0,1.0,0.0,58.0
+on request,0.4,nayabad,4000.0,2.0,2.0,1,1.0,South-East,New Property,South,861.0,0.0,0.0,0.0,0.0,1.0,0.0,63.0
+on request,0.31,new garia,4000.0,2.0,2.0,1,2.0,South,New Property,South,662.0,0.0,0.0,0.0,0.0,0.0,0.0,93.0
+mini complex,0.33,nayabad,4000.0,2.0,2.0,1,2.0,North-East,Relatively New,South,708.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.76,new garia,5241.0,3.0,2.0,1,1.0,South,Moderately Old,South,1240.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0
+on request,0.47,kalikapur,4500.0,3.0,2.0,2,1.0,South-East,Relatively New,South,898.0,0.0,0.0,0.0,0.0,0.0,0.0,146.0
+bengal abasan urban sabujayan,0.99,mukundapur,5500.0,4.0,3.0,3,1.0,North-East,Relatively New,South,1535.0,0.0,0.0,0.0,0.0,1.0,0.0,145.0
+bengal abasan urban sabujayan,0.78,mukundapur,5500.0,3.0,2.0,1,2.0,North-East,New Property,South,1119.0,0.0,0.0,0.0,0.0,1.0,0.0,137.0
+bengal abasan urban sabujayan,0.69,mukundapur,5500.0,3.0,2.0,1,4.0,East,Relatively New,South,1074.0,0.0,0.0,0.0,0.0,1.0,0.0,126.0
+tirupati paradise,0.45,narendrapur,3859.0,3.0,2.0,1,4.0,South,Relatively New,South,997.0,0.0,0.0,0.0,0.0,1.0,0.0,117.0
+tirupati paradise,0.45,narendrapur,3768.0,3.0,2.0,1,3.0,South-East,Relatively New,South,1021.0,0.0,0.0,0.0,0.0,1.0,0.0,78.0
+residential mini complex,0.39,new garia,4000.0,2.0,2.0,1,3.0,North-East,Relatively New,South,828.0,0.0,0.0,0.0,0.0,1.0,0.0,80.0
+residential mini complex,0.51,nayabad,4018.0,3.0,2.0,1,2.0,East,Relatively New,South,1092.0,0.0,0.0,0.0,0.0,1.0,0.0,71.0
+ganguly groups,0.6,garia,6451.0,2.0,2.0,1,1.0,South-East,Relatively New,South,796.0,0.0,0.0,0.0,0.0,1.0,0.0,71.0
+on request,0.65,garia,5175.0,3.0,2.0,1,1.0,North-East,Relatively New,South,1074.0,0.0,0.0,0.0,0.0,1.0,0.0,56.0
+on request,0.47,raipur,4700.0,3.0,2.0,1,3.0,South-West,Moderately Old,West,855.0,0.0,0.0,0.0,0.0,0.0,0.0,71.0
+on request,0.78,naktala,6000.0,3.0,2.0,1,2.0,South-West,New Property,South,1112.0,0.0,0.0,0.0,0.0,1.0,0.0,63.0
+on request,0.5,raipur,5000.0,2.0,2.0,1,2.0,South-West,Relatively New,West,855.0,0.0,0.0,0.0,0.0,0.0,0.0,56.0
+on request,0.65,ramgarh,4049.0,3.0,3.0,2,3.0,South-West,Old Property,West,1373.0,0.0,0.0,0.0,0.0,1.0,0.0,63.0
+on request new,0.47,new garia,4000.0,3.0,2.0,1,3.0,South-East,Relatively New,South,1001.0,0.0,0.0,0.0,0.0,1.0,0.0,71.0
+residential complex,0.51,nayabad,4000.0,3.0,2.0,1,1.0,South,Relatively New,South,1098.0,0.0,0.0,0.0,0.0,1.0,0.0,63.0
+on request new,0.46,nayabad,4200.0,3.0,2.0,1,2.0,South-West,Relatively New,South,937.0,0.0,0.0,0.0,0.0,1.0,0.0,57.0
+on request new,0.28,new garia,4000.0,2.0,1.0,0,3.0,South-West,Relatively New,South,590.0,0.0,0.0,0.0,0.0,1.0,0.0,58.0
+on request new,0.31,nayabad,4000.0,2.0,2.0,1,2.0,South-West,New Property,South,662.0,0.0,0.0,0.0,0.0,1.0,0.0,63.0
+on request new,0.4,new garia,4000.0,2.0,2.0,1,1.0,South-East,New Property,South,861.0,0.0,0.0,0.0,0.0,1.0,0.0,63.0
+on request new,0.4,nayabad,4200.0,3.0,2.0,1,3.0,East,Relatively New,South,813.0,0.0,0.0,0.0,0.0,1.0,0.0,63.0
+on request new,0.58,nayabad,4200.0,3.0,2.0,1,2.0,South-East,Relatively New,South,1186.0,0.0,0.0,0.0,0.0,1.0,0.0,71.0
+residential mini complex,0.51,mukundapur,4951.0,3.0,2.0,1,1.0,South-West,Relatively New,South,881.0,0.0,0.0,0.0,0.0,1.0,2.0,71.0
+residential 2 block complex,0.48,mukundapur,4363.0,2.0,2.0,1,4.0,North-West,Moderately Old,South,941.0,0.0,0.0,0.0,0.0,1.0,0.0,78.0
+residential mini complex,0.46,new garia,4000.0,3.0,2.0,1,2.0,North-East,Relatively New,South,994.0,0.0,0.0,0.0,0.0,1.0,0.0,86.0
+residential mini complex,0.25,nayabad,4000.0,2.0,2.0,0,2.0,South,Relatively New,South,544.0,0.0,0.0,0.0,0.0,1.0,0.0,79.0
+residential mini complex,0.33,new garia,4000.0,2.0,2.0,1,2.0,North-West,Relatively New,South,708.0,0.0,0.0,0.0,0.0,1.0,0.0,54.0
+starlite sunny seasons,0.55,kamalgazi,4471.0,3.0,2.0,1,3.0,South-East,Old Property,South,1052.0,0.0,0.0,0.0,0.0,0.0,0.0,91.0
+on request,4.0,ballygunge,14239.0,4.0,4.0,2,6.0,North-West,Relatively New,South,2403.0,0.0,1.0,0.0,0.0,0.0,0.0,34.0
+propterior,2.2,sarat bose road,12571.0,3.0,3.0,1,6.0,North-East,Relatively New,South,1497.0,0.0,0.0,0.0,0.0,0.0,0.0,54.0
+"propterior, dover  terrace",2.31,sarat bose road,11797.0,3.0,3.0,1,4.0,South,Relatively New,South,1675.0,0.0,1.0,0.0,0.0,0.0,0.0,54.0
+sureka sunrise heights,1.9,beleghata,13167.0,3.0,3.0,0,1.0,North-East,Relatively New,East,1443.0,0.0,0.0,0.0,0.0,0.0,1.0,55.0
+individual apartment,0.46,new town,5100.0,2.0,2.0,1,1.0,East,Relatively New,East,766.0,0.0,1.0,0.0,0.0,0.0,0.0,58.0
+residential apartment,0.66,new town,5000.0,3.0,2.0,2,1.0,South-West,Relatively New,East,1124.0,0.0,1.0,0.0,0.0,1.0,0.0,54.0
+rdc tower,0.35,ch,4500.0,2.0,2.0,1,1.0,East,New Property,East,671.0,0.0,0.0,0.0,0.0,1.0,0.0,47.0
+rdc tower,0.53,ch,4499.0,3.0,2.0,2,2.0,South-West,New Property,East,1008.0,0.0,0.0,1.0,0.0,0.0,0.0,39.0
+on request,0.32,bijoygarh,4444.0,2.0,2.0,1,1.0,South,Relatively New,South,616.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+swagatam,0.3,rajarhat,3500.0,2.0,2.0,1,2.0,South-East,Relatively New,East,741.0,0.0,0.0,0.0,0.0,1.0,0.0,46.0
+swgatam,0.3,rajarhat,3500.0,2.0,2.0,2,3.0,East,Relatively New,East,723.0,0.0,0.0,0.0,0.0,1.0,0.0,45.0
+bijoy apartment,0.28,rajarhat,3500.0,2.0,2.0,1,4.0,North-West,Relatively New,East,678.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+plazo,0.38,rajarhat,3500.0,3.0,2.0,1,3.0,South,Relatively New,East,922.0,0.0,0.0,0.0,0.0,1.0,0.0,45.0
+bijoy apartment,0.31,rajarhat,3500.0,2.0,2.0,1,2.0,East,Relatively New,East,749.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0
+bijoy apartment,0.31,rajarhat,3500.0,2.0,2.0,1,4.0,South-East,Relatively New,East,757.0,0.0,0.0,0.0,0.0,1.0,0.0,38.0
+bijoy apartment,0.41,rajarhat,3500.0,3.0,2.0,1,3.0,North-West,Relatively New,East,1010.0,0.0,0.0,0.0,0.0,1.0,0.0,51.0
+bijoy apartment,0.37,rajarhat,3500.0,3.0,2.0,1,3.0,North-West,Relatively New,East,911.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+plazo,0.37,rajarhat,3496.0,3.0,2.0,1,2.0,South,Relatively New,East,894.0,0.0,0.0,0.0,0.0,1.0,0.0,54.0
+urban heights,1.3,kasba,8381.0,3.0,2.0,2,3.0,North-East,Relatively New,South,1327.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+mayfair platinum,0.35,baruipur,3299.0,3.0,2.0,1,2.0,North-East,Relatively New,South,915.0,0.0,0.0,0.0,0.0,1.0,0.0,41.0
+deep plaza,0.7,sodepur,2978.0,3.0,3.0,3,4.0,South-East,Moderately Old,North,2010.0,0.0,0.0,0.0,1.0,1.0,2.0,6.0
+on request,0.24,dum dum,3250.0,2.0,1.0,1,4.0,North-East,Relatively New,North,638.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0
+on request,0.25,dum dum,3250.0,2.0,2.0,1,1.0,East,Relatively New,North,655.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+on request,0.22,dum dum,2800.0,2.0,2.0,1,1.0,East,Relatively New,North,681.0,0.0,0.0,0.0,0.0,0.0,0.0,58.0
+standalone,1.5,rash behari,11538.0,3.0,2.0,1,2.0,South,Relatively New,South,1112.0,0.0,0.0,0.0,0.0,0.0,2.0,82.0
+purti hastings,3.56,alipore,13054.0,4.0,4.0,1,3.0,North-West,Relatively New,South,1978.0,0.0,1.0,0.0,0.0,0.0,0.0,55.0
+purti hastings,2.9,alipore,13145.0,4.0,4.0,1,2.0,North-East,Relatively New,South,1585.0,0.0,1.0,0.0,0.0,0.0,0.0,128.0
+unitech uniworld city,1.0,new town,5652.0,3.0,2.0,2,21.0,North-East,Moderately Old,East,1513.0,0.0,0.0,0.0,0.0,0.0,1.0,54.0
+uniworld city,0.95,new town,5373.0,3.0,2.0,2,14.0,South-West,Moderately Old,East,1512.0,0.0,0.0,0.0,0.0,1.0,0.0,150.0
+unitech gardens,1.43,new town,6544.0,3.0,4.0,3,8.0,North-East,Moderately Old,East,1550.0,0.0,1.0,0.0,0.0,0.0,0.0,54.0
+uniworld city,1.42,new town,6363.0,3.0,4.0,3,9.0,South,Moderately Old,East,1600.0,0.0,1.0,0.0,0.0,0.0,0.0,134.0
+sukhobristi shapoorji,0.56,new town,6222.0,3.0,2.0,1,6.0,North-East,New Property,East,630.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0
+new apartment,0.13,baguiati,3000.0,1.0,1.0,1,3.0,South,New Property,North,369.0,0.0,0.0,0.0,0.0,0.0,0.0,39.0
+new apartment,0.48,baguiati,4000.0,3.0,2.0,2,1.0,South,New Property,North,1033.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0
+on request,0.21,baguiati,2800.0,2.0,2.0,1,2.0,South-East,Relatively New,North,635.0,0.0,0.0,0.0,0.0,0.0,0.0,31.0
+new apartment,0.18,baguiati baguiati,2800.0,2.0,2.0,1,1.0,North,Relatively New,North,560.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0
+new apartment,0.23,baguiati,3300.0,2.0,2.0,1,1.0,South-East,Relatively New,North,608.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0
+new apartment,0.34,baguiati,3300.0,3.0,2.0,1,2.0,South-East,Relatively New,North,874.0,0.0,0.0,0.0,0.0,0.0,0.0,46.0
+new building,0.25,baguiati,754.0,2.0,2.0,1,1.0,North-West,Relatively New,North,2823.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+new apartment,0.21,baguiati,3300.0,2.0,1.0,1,1.0,North,Relatively New,North,554.0,0.0,0.0,0.0,0.0,0.0,0.0,63.0
+magnolia prestige,0.46,bishnupur,3610.0,3.0,2.0,2,4.0,West,Relatively New,North,1090.0,0.0,0.0,0.0,0.0,0.0,0.0,43.0
+"magnolia skyview, rajarhat",0.56,rajarhat,4560.0,3.0,2.0,2,4.0,South,Relatively New,East,1050.0,0.0,0.0,0.0,0.0,0.0,0.0,46.0
+kalyani apartment,0.27,behala,3177.0,2.0,2.0,0,2.0,South-West,New Property,South,732.0,0.0,0.0,1.0,0.0,0.0,0.0,47.0
+a. r. s apartment,0.16,silpara,3600.0,1.0,1.0,1,2.0,South,New Property,South,376.0,0.0,0.0,1.0,0.0,0.0,0.0,165.0
+diamond city north,0.8,shyamnagar,6804.0,3.0,2.0,2,2.0,West,Old Property,North,1000.0,0.0,0.0,0.0,0.0,1.0,1.0,54.0
+lotus apartment,0.35,behala,4600.0,2.0,2.0,1,2.0,South-West,New Property,South,648.0,0.0,0.0,1.0,0.0,0.0,0.0,61.0
+lotus apartment,0.32,behala,4554.0,2.0,2.0,1,2.0,South-West,New Property,South,607.0,0.0,0.0,1.0,0.0,0.0,0.0,39.0
+shyama apartment,0.33,behala,4687.0,2.0,2.0,1,1.0,South-West,New Property,South,616.0,0.0,0.0,1.0,0.0,0.0,0.0,19.0
+on request,0.23,sodepur,3200.0,2.0,2.0,1,3.0,North,Relatively New,North,614.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.23,sodepur,3200.0,2.0,2.0,1,1.0,North,Relatively New,North,614.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.36,sodepur,3200.0,3.0,2.0,1,4.0,West,Relatively New,North,950.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.36,sodepur,3200.0,3.0,2.0,1,4.0,East,Relatively New,North,958.0,0.0,0.0,0.0,0.0,1.0,0.0,61.0
+purbaraj apartment,0.4,behala,3478.0,3.0,2.0,1,2.0,South-West,New Property,South,990.0,0.0,0.0,1.0,0.0,0.0,0.0,159.0
+sureka sunrise point,0.49,new town,6055.0,2.0,2.0,1,5.0,North-West,Old Property,East,700.0,0.0,0.0,0.0,0.0,1.0,0.0,145.0
+shrachi greenwood park extension,0.86,new town,6013.0,3.0,2.0,2,10.0,East,Old Property,East,1100.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.21,sodepur,3200.0,2.0,2.0,1,1.0,East,Relatively New,North,565.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.21,sodepur,3200.0,2.0,2.0,1,3.0,West,Relatively New,North,565.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.21,sodepur,3200.0,2.0,2.0,1,4.0,South,Relatively New,North,565.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0
+on request,0.27,sodepur,3200.0,2.0,2.0,1,4.0,West,Relatively New,North,719.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.28,sodepur,3200.0,2.0,2.0,1,1.0,North,Relatively New,North,746.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.28,sodepur,3200.0,2.0,2.0,1,0.0,East,Relatively New,North,746.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on requezt,0.28,sodepur,3200.0,2.0,2.0,1,4.0,North,Relatively New,North,746.0,0.0,0.0,0.0,0.0,1.0,0.0,159.0
+sureka sunrise point,0.49,new town,5991.0,2.0,2.0,1,5.0,North,Old Property,East,700.0,0.0,0.0,0.0,0.0,1.0,0.0,104.0
+siddha happyville,0.88,rajarhat,6956.0,3.0,3.0,1,13.0,East,Relatively New,East,1082.0,0.0,0.0,0.0,0.0,0.0,0.0,104.0
+siddha happyville,0.68,rajarhat,6296.0,2.0,2.0,1,11.0,South-East,Relatively New,East,924.0,1.0,0.0,0.0,0.0,0.0,0.0,33.0
+nexus apartment,0.43,sodepur,3000.0,3.0,2.0,2,4.0,North-East,New Property,North,1215.0,0.0,0.0,0.0,0.0,1.0,0.0,61.0
+jagannath apartment,0.3,behala,3595.0,2.0,2.0,1,0.0,East,Relatively New,South,719.0,0.0,0.0,1.0,0.0,0.0,0.0,61.0
+surjodoy apartment,0.35,behala,3317.0,3.0,2.0,1,3.0,East,Relatively New,South,907.0,0.0,0.0,1.0,0.0,0.0,0.0,54.0
+kalyani apartment,0.27,behala,3196.0,2.0,2.0,0,1.0,South,Relatively New,South,728.0,0.0,0.0,0.0,0.0,0.0,0.0,61.0
+kalyani apartment,0.27,behala,3185.0,2.0,2.0,0,2.0,South,Relatively New,South,731.0,0.0,0.0,1.0,0.0,0.0,0.0,47.0
+residency apartment,0.23,barisha,3125.0,2.0,2.0,1,0.0,North-East,Relatively New,South,643.0,0.0,0.0,0.0,0.0,0.0,0.0,47.0
+shyam apartment,0.33,behala,4394.0,2.0,2.0,1,1.0,South-West,Relatively New,South,642.0,0.0,0.0,1.0,0.0,0.0,0.0,47.0
+shyama apartment,0.33,behala,4376.0,2.0,2.0,1,1.0,South-West,Relatively New,South,645.0,0.0,0.0,1.0,0.0,0.0,0.0,61.0
+jagannath apartment,0.3,behala,3600.0,2.0,2.0,1,0.0,South-West,New Property,South,719.0,0.0,0.0,1.0,0.0,0.0,0.0,83.0
+elita garden vista phase 2,1.25,new town,7886.0,3.0,3.0,2,11.0,South-West,Relatively New,East,1356.0,0.0,0.0,0.0,0.0,1.0,1.0,83.0
+elita garden vista phase 2,1.18,new town,7347.0,3.0,3.0,2,6.0,South,Relatively New,East,1374.0,0.0,0.0,0.0,0.0,0.0,0.0,83.0
+elita garden vista phase 2,1.26,new town,7200.0,3.0,3.0,2,23.0,South-East,Relatively New,East,1497.0,0.0,0.0,0.0,0.0,1.0,0.0,47.0
+a r s apartment,0.25,silpara,3610.0,2.0,2.0,1,2.0,South-West,New Property,South,604.0,0.0,0.0,0.0,0.0,0.0,0.0,54.0
+somnath apartment,0.27,silpara,3600.0,2.0,1.0,1,1.0,South-West,Relatively New,South,637.0,0.0,0.0,1.0,0.0,0.0,0.0,104.0
+siddha happyville,0.62,rajarhat,6358.0,2.0,2.0,1,8.0,North,Relatively New,East,834.0,0.0,0.0,0.0,0.0,0.0,0.0,77.0
+icon apartment,0.32,nayabad,3555.0,2.0,2.0,1,4.0,South,Relatively New,South,765.0,0.0,0.0,1.0,0.0,0.0,0.0,91.0
+signature,0.88,kalikapur,6500.0,3.0,2.0,1,4.0,North-East,Relatively New,South,1152.0,0.0,0.0,1.0,0.0,0.0,0.0,97.0
+650 kalikapur,0.68,pr,8666.0,3.0,2.0,1,2.0,North-West,Relatively New,South,900.0,0.0,0.0,1.0,0.0,0.0,0.0,83.0
+novelty,0.63,madurdaha,4950.0,3.0,2.0,1,3.0,North-East,Relatively New,South,1100.0,0.0,0.0,1.0,1.0,0.0,0.0,47.0
+residency apartment,0.23,barisha,3129.0,2.0,2.0,1,0.0,South-East,Relatively New,South,642.0,0.0,0.0,1.0,0.0,0.0,0.0,61.0
+residency apartment,0.35,sarsuna,3482.0,2.0,2.0,1,3.0,South-West,Relatively New,South,860.0,0.0,0.0,1.0,0.0,0.0,0.0,83.0
+elita garden vista,1.15,new town,5882.0,3.0,4.0,2,21.0,East,Moderately Old,East,1672.0,0.0,1.0,0.0,0.0,1.0,0.0,83.0
+elita garden vista phase 2,1.2,new town,7556.0,3.0,3.0,2,23.0,South-East,Relatively New,East,1215.0,0.0,0.0,0.0,0.0,1.0,0.0,83.0
+dlf new town heights,0.75,new town,5966.0,2.0,2.0,2,11.0,North-West,Relatively New,East,1075.0,0.0,0.0,0.0,0.0,1.0,0.0,24.0
+on request,0.49,kaikhali,4400.0,3.0,2.0,2,4.0,South-West,New Property,North,953.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+on request,0.37,baguiati,3400.0,3.0,2.0,1,4.0,West,Relatively New,North,942.0,0.0,0.0,0.0,0.0,0.0,0.0,31.0
+on,0.29,baguiati,3400.0,2.0,2.0,1,2.0,East,Relatively New,North,727.0,0.0,0.0,0.0,0.0,0.0,0.0,143.0
+devaloke heights,1.26,jadavpur,7513.0,3.0,2.0,2,5.0,South-East,Moderately Old,South,1480.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.37,sodepur,3250.0,3.0,2.0,1,5.0,North-East,Relatively New,North,984.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.37,sodepur,3250.0,3.0,2.0,1,5.0,South-West,Relatively New,North,984.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.24,sodepur,3250.0,2.0,2.0,1,3.0,West,Relatively New,North,624.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.24,sodepur,3250.0,2.0,2.0,1,1.0,West,Relatively New,North,624.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.24,sodepur,3250.0,2.0,2.0,1,5.0,South-East,Relatively New,North,624.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.24,sodepur,3250.0,2.0,2.0,1,4.0,South,Relatively New,North,624.0,0.0,0.0,0.0,0.0,1.0,0.0,39.0
+on 3,0.28,baguiati,3496.0,2.0,2.0,1,3.0,East,Relatively New,North,689.0,0.0,0.0,0.0,0.0,0.0,0.0,31.0
+on request,0.28,baguiati,3500.0,2.0,2.0,1,3.0,East,Relatively New,North,689.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+on request,0.32,baguiati,3500.0,2.0,2.0,1,3.0,North,Relatively New,North,774.0,0.0,0.0,0.0,0.0,0.0,0.0,47.0
+godrej prakriti,0.46,sodepur,4951.0,2.0,2.0,1,7.0,North-East,Relatively New,North,795.0,0.0,0.0,0.0,0.0,1.0,0.0,46.0
+godrej prakriti,0.49,sodepur,5274.0,2.0,2.0,1,12.0,North-East,Relatively New,North,795.0,1.0,1.0,0.0,1.0,1.0,0.0,46.0
+godrej prakriti,0.48,sodepur,5052.0,2.0,2.0,2,8.0,North-East,Relatively New,North,813.0,0.0,0.0,0.0,0.0,1.0,0.0,54.0
+godrej prakriti,0.58,sodepur,5000.0,3.0,2.0,2,14.0,North-East,Relatively New,North,992.0,0.0,0.0,0.0,0.0,1.0,0.0,54.0
+godrej prakriti,0.7,sodepur,5150.0,3.0,2.0,1,7.0,North-East,Relatively New,North,1163.0,0.0,0.0,0.0,0.0,1.0,0.0,54.0
+godrej prakriti,0.58,sodepur,4957.0,3.0,2.0,2,4.0,East,Relatively New,North,1001.0,0.0,0.0,0.0,0.0,1.0,0.0,54.0
+godrej prakriti,0.57,sodepur,4913.0,3.0,2.0,2,3.0,East,Relatively New,North,992.0,0.0,0.0,0.0,0.0,1.0,0.0,47.0
+jagardharti apartment,0.32,barisha,4318.0,2.0,2.0,1,0.0,South-West,New Property,South,634.0,0.0,0.0,1.0,0.0,0.0,0.0,19.0
+palki apartment,0.39,joka,3299.0,3.0,2.0,2,1.0,North-West,Relatively New,South,1018.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0
+palki apartment,0.28,joka,3300.0,2.0,2.0,1,2.0,North-West,Relatively New,South,719.0,0.0,0.0,0.0,0.0,0.0,0.0,61.0
+eastern tower,0.55,behala,3840.0,3.0,2.0,1,2.0,North-West,Relatively New,South,1225.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0
+on request,0.38,khardah,3199.0,3.0,2.0,2,3.0,South-East,New Property,North,1006.0,0.0,0.0,0.0,0.0,1.0,0.0,18.0
+on reuest,0.28,khardah,3200.0,2.0,2.0,1,4.0,South-East,New Property,North,736.0,0.0,0.0,0.0,0.0,1.0,0.0,25.0
+on request,0.38,khardah,3201.0,3.0,2.0,2,3.0,South-East,New Property,North,1015.0,0.0,0.0,0.0,0.0,1.0,0.0,18.0
+nexus apartment,0.29,khardah,3199.0,2.0,2.0,2,4.0,South-East,New Property,North,766.0,0.0,0.0,0.0,0.0,1.0,0.0,18.0
+on request,0.27,khardah,3200.0,2.0,2.0,1,4.0,South-East,New Property,North,727.0,0.0,0.0,0.0,0.0,1.0,0.0,80.0
+jeet signature kalikapur,0.72,pr,9336.0,3.0,2.0,1,2.0,South-West,Relatively New,South,828.0,0.0,0.0,0.0,0.0,0.0,0.0,71.0
+jeet novelty madurdaha,0.7,anandapur,5470.0,3.0,2.0,1,2.0,East,Relatively New,South,1020.0,0.0,0.0,0.0,0.0,0.0,0.0,59.0
+jeet novelty embypass,0.41,madurdaha,4501.0,3.0,2.0,1,2.0,South,Relatively New,South,736.0,0.0,0.0,0.0,0.0,0.0,0.0,59.0
+jeet world madurdaha,0.37,em bypass,4500.0,2.0,2.0,1,4.0,East,Relatively New,South,660.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0
+on request,0.34,sodepur,3200.0,3.0,2.0,1,4.0,West,New Property,North,898.0,0.0,0.0,0.0,0.0,1.0,0.0,157.0
+diamond city north,0.81,shyamnagar,6928.0,3.0,2.0,2,2.0,North,Old Property,North,1000.0,0.0,0.0,0.0,0.0,1.0,0.0,13.0
+nexus,0.41,khardah,3352.0,3.0,3.0,2,3.0,North-East,New Property,North,1046.0,0.0,0.0,0.0,0.0,1.0,0.0,47.0
+shyama apartment,0.34,behala,4500.0,2.0,2.0,1,2.0,South-West,Relatively New,South,642.0,0.0,0.0,1.0,0.0,0.0,0.0,47.0
+subrata apartment,0.27,barisha,3600.0,2.0,2.0,1,2.0,North,Relatively New,South,642.0,0.0,0.0,1.0,0.0,0.0,0.0,47.0
+a. r. s apartment,0.25,silpara,3579.0,2.0,2.0,1,2.0,South,Relatively New,South,609.0,0.0,0.0,0.0,0.0,0.0,0.0,47.0
+jagadharti apartment,0.32,barisha,4278.0,2.0,2.0,1,0.0,South,Relatively New,South,640.0,0.0,0.0,1.0,0.0,0.0,0.0,47.0
+jagadharti apartment,0.26,barisha,4333.0,2.0,1.0,0,1.0,North-West,Relatively New,South,513.0,0.0,0.0,1.0,0.0,0.0,0.0,19.0
+on request,0.24,sodepur,3000.0,2.0,2.0,1,3.0,South-West,Relatively New,North,687.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.24,sodepur,3000.0,2.0,2.0,1,2.0,South,Relatively New,North,687.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.24,sodepur,3000.0,2.0,2.0,1,1.0,East,Relatively New,North,687.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.21,sodepur,3200.0,2.0,2.0,1,1.0,South-East,Relatively New,North,573.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.28,sodepur,3200.0,2.0,2.0,1,1.0,South,Relatively New,North,749.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.21,sodepur,3200.0,2.0,2.0,1,4.0,North-West,Relatively New,North,573.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.28,sodepur,3200.0,2.0,2.0,1,4.0,South,Relatively New,North,749.0,0.0,0.0,0.0,0.0,1.0,0.0,104.0
+siddha happyville,0.64,rajarhat,6553.0,2.0,2.0,1,19.0,South-East,Relatively New,East,834.0,0.0,0.0,0.0,0.0,0.0,0.0,104.0
+siddha happyville,0.88,rajarhat,6956.0,3.0,2.0,1,2.0,East,Relatively New,East,1082.0,0.0,0.0,0.0,0.0,0.0,0.0,54.0
+on request,1.15,new town,7651.0,3.0,2.0,2,10.0,North-West,Relatively New,East,1286.0,0.0,0.0,0.0,0.0,1.0,0.0,54.0
+dlf new town heights,0.75,new town,5966.0,2.0,2.0,2,5.0,South-East,Moderately Old,East,1075.0,0.0,0.0,0.0,0.0,1.0,0.0,54.0
+elita garden vista phase 2,1.25,new town,7192.0,3.0,4.0,2,20.0,South,Relatively New,East,1487.0,0.0,0.0,0.0,0.0,1.0,2.0,54.0
+elita garden vista phase 2,1.2,new town,7471.0,3.0,3.0,2,10.0,South-East,Relatively New,East,1374.0,0.0,0.0,0.0,0.0,1.0,0.0,120.0
+ujjwala luxary apartments,1.35,new town,8946.0,3.0,3.0,3,4.0,West,Moderately Old,East,1323.0,0.0,0.0,0.0,0.0,0.0,2.0,110.0
+uttara tritiya,1.5,new town,5769.0,4.0,4.0,3+,6.0,South-West,Moderately Old,East,2224.0,0.0,1.0,0.0,0.0,0.0,0.0,185.0
+meridian splendora,1.4,paikpara,7190.0,4.0,3.0,2,12.0,South-West,Relatively New,North,1460.0,0.0,0.0,0.0,0.0,1.0,0.0,113.0
+meridian splendora,1.06,paikpara,7181.0,3.0,3.0,2,8.0,West,Relatively New,North,1107.0,0.0,0.0,0.0,0.0,1.0,0.0,46.0
+naaa,3.0,gariahat,12897.0,3.0,2.0,1,2.0,South-East,Relatively New,South,1990.0,0.0,0.0,0.0,1.0,1.0,0.0,34.0
+residential apartment,0.82,madurdaha,6612.0,3.0,2.0,1,1.0,East,New Property,South,1061.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0
+residential apartment,1.85,ballygunge,7400.0,4.0,4.0,2,1.0,South,Old Property,South,2256.0,0.0,0.0,0.0,0.0,0.0,1.0,49.0
+residential apartment,1.8,ballygunge,11538.0,3.0,2.0,1,4.0,South-East,New Property,South,1430.0,0.0,0.0,0.0,0.0,0.0,0.0,27.0
+residential apartment,1.85,ballygunge,8409.0,3.0,3.0,1,4.0,South-East,Old Property,South,1986.0,0.0,0.0,0.0,0.0,0.0,1.0,21.0
+residential apartment,1.35,southern avenue,10000.0,2.0,2.0,1,2.0,South-East,Old Property,South,1142.0,0.0,0.0,0.0,0.0,0.0,0.0,27.0
+residential apartment,1.32,hazra,10352.0,3.0,3.0,1,4.0,South-East,New Property,South,1110.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+residential apartment,1.42,pr,7473.0,4.0,3.0,1,2.0,North-East,Moderately Old,South,1745.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0
+residential apartment,2.0,southern avenue,10526.0,3.0,3.0,2,2.0,South-West,Moderately Old,South,1716.0,1.0,0.0,0.0,1.0,0.0,2.0,19.0
+residential apartment,0.8,pr,5860.0,3.0,2.0,1,1.0,South-East,Relatively New,South,1233.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0
+residential apartment,0.83,dhakuria,6509.0,3.0,2.0,1,3.0,South-East,Old Property,South,1167.0,0.0,0.0,0.0,0.0,0.0,0.0,29.0
+purba abasan,1.2,kasba,8444.0,3.0,2.0,1,1.0,South-East,Old Property,South,1342.0,0.0,0.0,0.0,0.0,0.0,0.0,41.0
+residential apartment,0.59,pr,5784.0,2.0,2.0,1,1.0,South,Relatively New,South,899.0,0.0,0.0,0.0,0.0,0.0,0.0,47.0
+residential apartment,0.85,mudially,7083.0,2.0,2.0,1,1.0,South-East,Old Property,South,1078.0,0.0,0.0,0.0,0.0,0.0,0.0,150.0
+siddha galaxia,0.95,rajarhat,7392.0,3.0,2.0,1,10.0,North-West,Relatively New,East,1099.0,0.0,0.0,0.0,0.0,0.0,0.0,29.0
+sweet hut sarovar residency,0.3,rajarhat,3606.0,2.0,2.0,1,2.0,West,Relatively New,East,706.0,0.0,0.0,0.0,0.0,1.0,0.0,161.0
+unitech fresco,1.07,new town,9469.0,3.0,3.0,2,4.0,North-West,New Property,East,1212.0,0.0,0.0,0.0,0.0,0.0,0.0,131.0
+tata avenida,1.97,new town,12232.0,3.0,3.0,2,17.0,East,Relatively New,East,1399.0,0.0,0.0,0.0,0.0,0.0,0.0,177.0
+bengal dcl uttara,1.85,new town,6329.0,3.0,3.0,3,6.0,South-West,Relatively New,East,2196.0,1.0,0.0,0.0,1.0,1.0,0.0,219.0
+elita garden vista,0.75,new town,5555.0,2.0,2.0,2,9.0,North,Relatively New,East,1080.0,0.0,0.0,0.0,0.0,0.0,2.0,148.0
+gls ruposi bangla phase 1,1.35,new town,7627.0,3.0,2.0,2,7.0,South-East,New Property,East,1327.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0
+on request,0.28,baguiati,3200.0,2.0,2.0,1,2.0,South-West,Relatively New,North,736.0,0.0,0.0,0.0,0.0,0.0,0.0,39.0
+on request,0.29,baguiati,3200.0,2.0,2.0,1,2.0,North-West,Relatively New,North,778.0,0.0,0.0,0.0,0.0,0.0,0.0,39.0
+on request,0.17,baguiati,3000.0,1.0,1.0,1,1.0,North-East,Relatively New,North,479.0,0.0,0.0,0.0,0.0,0.0,0.0,39.0
+on request,0.23,baguiati,3000.0,2.0,2.0,1,1.0,South-East,Relatively New,North,650.0,0.0,0.0,0.0,0.0,0.0,0.0,39.0
+on request,0.24,baguiati,3000.0,2.0,2.0,1,2.0,North-West,Relatively New,North,674.0,0.0,0.0,0.0,0.0,0.0,0.0,39.0
+on request,0.17,baguiati,3000.0,1.0,1.0,1,2.0,South-East,Relatively New,North,483.0,0.0,0.0,0.0,0.0,0.0,0.0,39.0
+on request,0.23,baguiati,3000.0,2.0,2.0,1,2.0,East,Relatively New,North,667.0,0.0,0.0,0.0,0.0,0.0,0.0,51.0
+on request,0.24,baguiati,3000.0,2.0,2.0,1,2.0,West,Relatively New,North,676.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0
+on request,0.3,baguiati,3500.0,2.0,2.0,1,2.0,South,Relatively New,North,727.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0
+on request,0.39,baguiati,3500.0,3.0,2.0,1,1.0,West,Relatively New,North,941.0,0.0,0.0,0.0,0.0,0.0,0.0,39.0
+on request,0.14,baguiati,3200.0,1.0,1.0,0,3.0,East,Relatively New,East,381.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0
+on request,0.41,baguiati,3250.0,3.0,2.0,2,4.0,South,Relatively New,North,1081.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0
+on request,0.2,baguiati,3105.0,2.0,1.0,1,1.0,South-East,Relatively New,East,551.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0
+on request,0.16,baguiati,2996.0,1.0,1.0,1,2.0,South,Relatively New,North,457.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0
+on request,0.19,baguiati,3000.0,2.0,2.0,1,2.0,North-East,Relatively New,North,547.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0
+on request,0.33,baguiati,3500.0,2.0,2.0,1,5.0,North-West,Relatively New,North,813.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0
+stand alone building,0.45,tangra,4797.0,2.0,2.0,1,3.0,West,Relatively New,East,802.0,0.0,0.0,0.0,0.0,1.0,0.0,54.0
+amarana residences,1.13,tangra,8451.0,3.0,3.0,1,7.0,West,Relatively New,East,1144.0,0.0,0.0,0.0,0.0,1.0,0.0,54.0
+amarana residences,1.12,tangra,8376.0,3.0,3.0,1,6.0,South-East,Relatively New,East,1144.0,0.0,0.0,0.0,0.0,1.0,0.0,54.0
+purti jewel,0.8,tangra,7233.0,3.0,2.0,2,1.0,South,Relatively New,East,946.0,0.0,0.0,0.0,0.0,1.0,0.0,121.0
+ambuja upohar luxury gold,3.0,em bypass,8620.0,4.0,4.0,1,13.0,North,Moderately Old,South,2977.0,0.0,0.0,0.0,0.0,0.0,2.0,121.0
+ambuja upohar luxury gold,1.7,em bypass,7071.0,3.0,4.0,2,15.0,South,Moderately Old,South,2056.0,0.0,0.0,0.0,0.0,0.0,0.0,121.0
+hiland park,0.9,em bypass,7462.0,2.0,2.0,2,7.0,East,Moderately Old,South,1032.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0
+on request,0.41,narendrapur,4653.0,2.0,2.0,1,2.0,North-West,Relatively New,South,754.0,0.0,0.0,0.0,0.0,1.0,0.0,26.0
+ambuja upohar the condoville,1.5,panchasayar,8138.0,3.0,2.0,2,15.0,South,Relatively New,South,1577.0,0.0,0.0,0.0,0.0,1.0,0.0,102.0
+ambuja upohar luxury gold,1.7,em bypass,8177.0,3.0,3.0,2,8.0,South-West,Moderately Old,South,1700.0,0.0,1.0,1.0,0.0,0.0,0.0,27.0
+residential apartment,0.8,golf garden,6250.0,2.0,2.0,1,2.0,North-West,Relatively New,South,1150.0,1.0,0.0,0.0,0.0,0.0,0.0,23.0
+on request,0.45,narendrapur,4687.0,2.0,2.0,1,1.0,North-West,Relatively New,South,758.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+on request,0.46,narendrapur,5000.0,2.0,2.0,1,1.0,West,Relatively New,South,787.0,0.0,0.0,0.0,0.0,1.0,0.0,77.0
+on request,0.42,narendrapur,4953.0,2.0,2.0,1,1.0,East,Relatively New,South,650.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+on request,0.6,narendrapur,4898.0,3.0,2.0,1,1.0,South-West,Relatively New,South,1056.0,0.0,0.0,0.0,0.0,1.0,0.0,86.0
+victoria vistas,3.9,bhawanipore,13782.0,4.0,4.0,1,7.0,South-East,Relatively New,South,2419.0,0.0,1.0,0.0,0.0,0.0,0.0,69.0
+victoria vistas,3.15,bhawanipore,23559.0,3.0,3.0,1,7.0,South-West,Relatively New,South,1749.0,0.0,1.0,0.0,0.0,0.0,0.0,48.0
+purti hastings,2.47,alipore,11500.0,3.0,3.0,1,3.0,South-East,Relatively New,South,1548.0,0.0,1.0,0.0,0.0,0.0,0.0,48.0
+purti hastings,2.54,alipore,11500.0,4.0,4.0,1,3.0,North-East,Relatively New,South,1585.0,0.0,1.0,0.0,0.0,0.0,0.0,41.0
+purti hastings,3.14,alipore,11514.0,4.0,4.0,2,3.0,North-West,Relatively New,South,1978.0,0.0,1.0,0.0,0.0,0.0,0.0,23.0
+south city,1.8,pr,12002.0,3.0,2.0,2,10.0,North-West,Old Property,South,1247.0,0.0,1.0,0.0,0.0,0.0,0.0,142.0
+anik one rajarhat,2.95,new town,12826.0,3.0,3.0,3,9.0,South-East,Relatively New,East,2317.0,0.0,1.0,0.0,0.0,0.0,0.0,158.0
+anik one rajarhat,2.45,new town,13045.0,3.0,3.0,3,20.0,South,Relatively New,East,1870.0,0.0,1.0,0.0,0.0,0.0,0.0,138.0
+siddha happyville,0.9,rajarhat,6875.0,3.0,3.0,2,11.0,South,Relatively New,East,1120.0,0.0,0.0,1.0,0.0,0.0,0.0,31.0
+goodwill apartment (new booking),0.22,madhyamgram,2596.0,2.0,2.0,1,1.0,South-East,New Property,North,715.0,0.0,0.0,0.0,0.0,1.0,0.0,31.0
+goodwill apartment (new booking),0.16,madhyamgram,2202.0,2.0,2.0,1,3.0,South-East,New Property,North,631.0,0.0,0.0,0.0,0.0,1.0,0.0,31.0
+goodwill apartment (new booking),0.21,madhyamgram,2596.0,2.0,2.0,1,4.0,South-East,New Property,North,685.0,0.0,0.0,0.0,0.0,1.0,0.0,31.0
+goodwill apartment (new booking),0.21,hridaypur,2603.0,2.0,2.0,1,3.0,South-East,New Property,North,683.0,0.0,0.0,0.0,0.0,1.0,0.0,31.0
+goodwill apartment (new booking),0.19,hridaypur,2446.0,2.0,2.0,1,2.0,South-East,New Property,North,674.0,0.0,0.0,0.0,0.0,1.0,0.0,31.0
+goodwill apartment (new booking),0.2,hridaypur,2450.0,2.0,2.0,1,2.0,South-East,New Property,North,707.0,0.0,0.0,0.0,0.0,1.0,0.0,131.0
+rajat avante,0.63,joka,6116.0,3.0,2.0,1,10.0,North-West,Relatively New,South,813.0,0.0,0.0,0.0,0.0,0.0,0.0,54.0
+rajat avante,0.5,joka,5931.0,2.0,2.0,1,12.0,South-West,Relatively New,South,660.0,0.0,0.0,0.0,0.0,0.0,0.0,145.0
+the 102,0.53,joka,6551.0,2.0,2.0,2,10.0,North,Relatively New,South,663.0,0.0,0.0,0.0,0.0,0.0,0.0,168.0
+the 102,0.65,joka,5762.0,3.0,2.0,3,12.0,South,Relatively New,South,930.0,0.0,0.0,0.0,0.0,1.0,0.0,60.0
+on request,0.41,nayabad,3568.0,3.0,2.0,1,1.0,South-West,Relatively New,South,983.0,0.0,0.0,0.0,0.0,1.0,0.0,53.0
+on request new,0.33,new garia,3877.0,2.0,2.0,1,2.0,South-East,Relatively New,South,728.0,0.0,0.0,0.0,0.0,1.0,0.0,63.0
+on request new,0.57,nayabad,4200.0,3.0,2.0,1,2.0,North-East,Relatively New,South,1161.0,0.0,0.0,0.0,0.0,1.0,0.0,71.0
+semi complex new,0.51,new garia,4000.0,3.0,2.0,1,3.0,North-East,Relatively New,South,1092.0,0.0,0.0,0.0,0.0,1.0,0.0,65.0
+on request,0.27,nayabad,3271.0,2.0,2.0,1,1.0,North-East,Relatively New,South,693.0,0.0,0.0,0.0,0.0,1.0,0.0,65.0
+on request,0.28,garia,4000.0,2.0,1.0,0,4.0,South-West,New Property,South,590.0,0.0,0.0,0.0,0.0,1.0,0.0,56.0
+on request,0.31,new garia,3803.0,2.0,2.0,1,1.0,South-East,Relatively New,South,697.0,0.0,0.0,0.0,0.0,1.0,0.0,81.0
+semi complex,0.39,new garia,3995.0,2.0,2.0,1,1.0,North-East,New Property,South,839.0,0.0,0.0,0.0,0.0,1.0,0.0,73.0
+semi complex,0.43,new garia,4000.0,3.0,2.0,2,1.0,South-West,New Property,South,918.0,0.0,0.0,0.0,0.0,1.0,0.0,87.0
+semi complex,0.46,new garia,4000.0,3.0,2.0,1,1.0,South-East,New Property,South,978.0,0.0,0.0,0.0,0.0,0.0,0.0,56.0
+brahmapur house,0.24,garia,3200.0,2.0,2.0,1,3.0,South-West,Relatively New,South,642.0,0.0,0.0,0.0,0.0,1.0,0.0,56.0
+brahmapur house,0.14,garia,3295.0,1.0,1.0,0,2.0,North-East,Relatively New,South,376.0,0.0,0.0,0.0,0.0,1.0,0.0,43.0
+brahmapur house,0.17,garia,3090.0,2.0,1.0,0,0.0,South-East,Relatively New,South,470.0,0.0,0.0,0.0,0.0,0.0,0.0,53.0
+on request new,0.46,nayabad,4200.0,3.0,2.0,1,2.0,South-East,New Property,South,937.0,0.0,0.0,0.0,0.0,1.0,0.0,51.0
+on request,0.4,nayabad,4200.0,3.0,2.0,1,1.0,North-East,New Property,South,813.0,0.0,0.0,0.0,0.0,1.0,0.0,57.0
+on request,0.58,nayabad,4200.0,3.0,2.0,1,2.0,South-East,New Property,South,1186.0,0.0,0.0,0.0,0.0,1.0,0.0,32.0
+kudghat house,0.25,kudghat,2941.0,2.0,2.0,1,0.0,South-East,Moderately Old,South,727.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0
+kudghat house,0.23,kudghat,3091.0,2.0,2.0,1,3.0,South-East,Relatively New,South,636.0,0.0,0.0,0.0,0.0,0.0,0.0,65.0
+on request,0.36,nayabad,4235.0,2.0,2.0,1,2.0,South-West,New Property,South,727.0,0.0,0.0,0.0,0.0,1.0,0.0,53.0
+semi complex,0.28,garia,3800.0,2.0,2.0,1,2.0,South-East,Relatively New,South,619.0,0.0,0.0,0.0,0.0,1.0,0.0,59.0
+semi complex,0.32,new garia,3799.0,2.0,2.0,1,3.0,South-West,New Property,South,730.0,0.0,0.0,0.0,0.0,0.0,0.0,73.0
+mangalik chs,0.3,em bypass,4477.0,2.0,1.0,1,0.0,North-East,Old Property,South,573.0,0.0,0.0,0.0,0.0,1.0,2.0,32.0
+udayan complex,0.17,konnagar,2250.0,2.0,2.0,1,2.0,South,Relatively New,West,642.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0
+udayan complex,0.27,konnagar,2249.0,3.0,2.0,1,1.0,East,Relatively New,West,1018.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0
+udayan complex,0.17,konnagar,2250.0,2.0,2.0,1,2.0,South-West,Relatively New,West,636.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0
+udayan complex,0.11,konnagar,2349.0,1.0,1.0,1,3.0,South,Relatively New,West,406.0,0.0,0.0,0.0,0.0,0.0,0.0,88.0
+udayan complex,0.19,konnagar,2189.0,2.0,2.0,1,2.0,South,Relatively New,West,727.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0
+udayan complex,0.19,konnagar,2301.0,2.0,2.0,1,1.0,East,Relatively New,West,693.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0
+udayan complex,0.18,konnagar,2300.0,2.0,2.0,1,2.0,South,Relatively New,West,680.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0
+udayan complex,0.17,konnagar,2250.0,2.0,2.0,1,1.0,East,Relatively New,West,659.0,0.0,0.0,0.0,0.0,0.0,0.0,33.0
+udayan complex,0.17,konnagar,2500.0,2.0,2.0,1,2.0,South,Relatively New,West,599.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0
+udayan complex,0.18,konnagar,2251.0,2.0,2.0,1,2.0,North-West,Relatively New,West,678.0,0.0,0.0,0.0,0.0,0.0,0.0,33.0
+udayan complex,0.21,konnagar,2200.0,3.0,2.0,1,4.0,North,Relatively New,West,825.0,0.0,0.0,0.0,0.0,0.0,0.0,33.0
+udayan complex,0.18,konnagar,2250.0,2.0,2.0,1,2.0,South-East,Relatively New,West,678.0,0.0,0.0,0.0,0.0,0.0,0.0,97.0
+dlf new town heights,0.74,new town,5953.0,2.0,2.0,1,10.0,South-East,Relatively New,East,1063.0,0.0,0.0,0.0,0.0,0.0,0.0,97.0
+dlf new town heights,0.74,new town,5887.0,2.0,2.0,1,10.0,South-East,Relatively New,East,1075.0,0.0,0.0,0.0,0.0,0.0,0.0,54.0
+unitech vistas,0.82,new town,6117.0,3.0,2.0,2,10.0,West,Relatively New,East,1049.0,0.0,0.0,0.0,0.0,0.0,0.0,65.0
+on request,0.76,patuli,6000.0,3.0,2.0,2,1.0,North-East,New Property,South,1089.0,0.0,0.0,0.0,0.0,1.0,0.0,53.0
+on request,0.18,kendua,5070.0,1.0,1.0,0,1.0,North-East,New Property,South,304.0,0.0,0.0,0.0,0.0,0.0,0.0,31.0
+goodwill apartment (new booking),0.16,hridaypur,2595.0,2.0,2.0,1,1.0,North,Relatively New,North,535.0,0.0,0.0,0.0,0.0,1.0,0.0,31.0
+goodwill apartment (new booking),0.19,madhyamgram,2400.0,2.0,2.0,1,3.0,North,Relatively New,North,678.0,0.0,0.0,0.0,0.0,1.0,0.0,31.0
+goodwill apartment (new booking),0.22,sodepur,3200.0,2.0,2.0,1,1.0,South,Relatively New,North,599.0,0.0,0.0,0.0,0.0,1.0,0.0,31.0
+goodwill apartment (new booking),0.2,sodepur,2800.0,2.0,2.0,1,2.0,West,Relatively New,North,599.0,0.0,0.0,0.0,0.0,1.0,0.0,81.0
+on request,0.3,nayabad,4200.0,2.0,2.0,1,2.0,South-West,New Property,South,609.0,0.0,0.0,0.0,0.0,1.0,0.0,47.0
+on request,0.52,madurdaha,4170.0,3.0,2.0,1,3.0,South,Moderately Old,South,1067.0,1.0,0.0,0.0,0.0,0.0,0.0,63.0
+on request new,0.39,pr,4950.0,2.0,2.0,1,3.0,North-East,New Property,East,667.0,0.0,0.0,0.0,0.0,1.0,0.0,47.0
+on request,0.4,kalikapur,5000.0,2.0,2.0,1,4.0,East,New Property,South,691.0,0.0,0.0,0.0,0.0,1.0,0.0,47.0
+on request,0.38,madurdaha,4500.0,2.0,2.0,1,3.0,North-East,New Property,South,731.0,0.0,0.0,0.0,0.0,1.0,0.0,47.0
+on request,0.47,madurdaha,4500.0,3.0,2.0,1,3.0,South-East,New Property,South,901.0,0.0,0.0,0.0,0.0,1.0,0.0,54.0
+on request,0.2,sodepur,2400.0,2.0,2.0,1,2.0,South,Relatively New,North,800.0,0.0,0.0,1.0,0.0,0.0,0.0,52.0
+"aayan plaza amraboti, new booking",0.37,sodepur,3956.0,3.0,2.0,1,5.0,South,Relatively New,North,1100.0,0.0,0.0,1.0,0.0,0.0,0.0,52.0
+on request,0.32,sodepur,2800.0,3.0,2.0,1,2.0,South,Relatively New,North,1100.0,0.0,0.0,1.0,0.0,0.0,0.0,52.0
+"r k plaza, sodepur, new booking",0.12,sodepur,2500.0,1.0,1.0,0,0.0,South,Relatively New,North,470.0,0.0,0.0,1.0,0.0,0.0,0.0,52.0
+on request,0.17,sodepur,2500.0,2.0,2.0,1,0.0,South,Relatively New,North,680.0,0.0,0.0,1.0,0.0,0.0,0.0,52.0
+"saheb plaza panihati, new booking",0.18,panihati,2600.0,2.0,2.0,1,5.0,North-East,Relatively New,North,650.0,0.0,0.0,1.0,0.0,0.0,0.0,52.0
+on request,0.16,sodepur,2600.0,2.0,1.0,1,5.0,West,Relatively New,North,620.0,0.0,0.0,1.0,0.0,0.0,0.0,52.0
+on request,0.17,sodepur,2500.0,2.0,1.0,1,5.0,South,Relatively New,North,670.0,0.0,0.0,1.0,0.0,0.0,0.0,31.0
+"diamond abasan sukchar, sodepur",0.15,sodepur,2499.0,2.0,1.0,1,5.0,North-West,Relatively New,North,600.0,0.0,0.0,0.0,0.0,1.0,0.0,52.0
+"diamond abasan new booking, sodepur",0.17,sodepur,2500.0,2.0,1.0,1,3.0,South,Relatively New,North,660.0,0.0,0.0,1.0,0.0,0.0,0.0,31.0
+on request,0.19,sodepur,2800.0,2.0,1.0,1,3.0,North-East,Relatively New,North,650.0,0.0,0.0,0.0,0.0,1.0,0.0,31.0
+on request,0.51,dunlop,3700.0,3.0,2.0,2,1.0,South-West,Relatively New,North,1350.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+on request,0.42,naktala,4142.0,2.0,2.0,1,3.0,South-East,Relatively New,South,867.0,0.0,0.0,0.0,0.0,1.0,0.0,19.0
+on request,0.45,ch,4500.0,2.0,2.0,1,2.0,South-East,Relatively New,East,855.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0
+hiland park,0.99,em bypass,7454.0,3.0,3.0,1,16.0,North-East,Old Property,South,1136.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+on request,0.46,west kamalapur,3800.0,3.0,2.0,1,4.0,North,Relatively New,West,1044.0,0.0,0.0,0.0,0.0,0.0,0.0,54.0
+on request,0.54,west kamalapur,3802.0,3.0,2.0,2,2.0,South,Relatively New,West,1215.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0
+on request,0.69,west kamalapur,3812.0,3.0,2.0,1,1.0,South,Relatively New,West,1548.0,0.0,0.0,0.0,0.0,0.0,0.0,33.0
+on request,0.4,west kamalapur,3809.0,2.0,2.0,1,1.0,North,Relatively New,West,898.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+on request,0.29,dum dum,4800.0,1.0,1.0,1,0.0,South,Relatively New,North,513.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+on request,0.38,dum dum,4800.0,2.0,2.0,0,1.0,South-West,Relatively New,North,684.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0
+on request,0.28,krishnapur,2849.0,2.0,2.0,1,4.0,South-West,Relatively New,West,847.0,0.0,0.0,0.0,0.0,0.0,0.0,33.0
+on request,0.39,baguiati,4199.0,2.0,2.0,1,2.0,North-West,Relatively New,North,790.0,0.0,0.0,0.0,0.0,0.0,0.0,113.0
+sherwood estate,0.5,narendrapur,5555.0,2.0,2.0,1,3.0,West,Moderately Old,South,770.0,0.0,0.0,0.0,0.0,0.0,2.0,106.0
+sherwood estate,0.45,narendrapur,5061.0,2.0,2.0,1,2.0,East,Moderately Old,South,760.0,0.0,0.0,0.0,0.0,0.0,0.0,113.0
+sherwood estate,0.46,narendrapur,5168.0,2.0,2.0,1,3.0,North-East,Moderately Old,South,761.0,0.0,0.0,0.0,0.0,0.0,2.0,113.0
+sherwood estate,0.34,narendrapur,4722.0,1.0,1.0,0,4.0,South-East,Moderately Old,South,616.0,0.0,0.0,0.0,0.0,0.0,0.0,113.0
+sherwood estate,0.56,narendrapur,5333.0,2.0,2.0,1,4.0,North-West,Moderately Old,South,898.0,0.0,0.0,0.0,0.0,0.0,0.0,107.0
+sherwood estate,0.46,narendrapur,5111.0,2.0,2.0,1,3.0,North-East,Moderately Old,South,770.0,0.0,0.0,0.0,0.0,0.0,0.0,65.0
+purti star,0.62,rajarhat,5294.0,3.0,2.0,1,3.0,South-East,Relatively New,East,1002.0,0.0,0.0,0.0,0.0,0.0,0.0,65.0
+purti star,0.64,rajarhat,5465.0,3.0,2.0,1,10.0,South-West,Moderately Old,East,1002.0,0.0,0.0,0.0,0.0,0.0,0.0,42.0
+sherwood estate,0.47,narendrapur,5053.0,2.0,2.0,0,2.0,South,Moderately Old,South,796.0,0.0,0.0,0.0,0.0,0.0,0.0,83.0
+elita garden vista,0.95,new town,5853.0,3.0,3.0,1,17.0,East,Relatively New,East,1242.0,0.0,0.0,0.0,0.0,0.0,0.0,106.0
+sherwood estate,0.54,narendrapur,5142.0,2.0,2.0,1,2.0,East,Moderately Old,South,898.0,0.0,0.0,0.0,0.0,0.0,0.0,106.0
+sherwood estate,1.0,narendrapur,5000.0,3.0,3.0,2,3.0,East,Moderately Old,South,1711.0,0.0,0.0,0.0,0.0,0.0,0.0,46.0
+navita,0.55,madhyamgram,5144.0,2.0,2.0,1,8.0,East,Moderately Old,North,914.0,0.0,0.0,0.0,0.0,0.0,0.0,130.0
+magnolia oxygen,0.35,rajarhat,3901.0,2.0,2.0,1,11.0,North-West,Relatively New,East,767.0,0.0,0.0,0.0,0.0,0.0,0.0,87.0
+magnolia oxygen,0.44,rajarhat,4435.0,2.0,2.0,1,12.0,South,Moderately Old,East,849.0,0.0,0.0,0.0,0.0,0.0,0.0,99.0
+magnolia sky view,0.55,omarhati,4478.0,3.0,2.0,2,11.0,North,Relatively New,East,1050.0,0.0,0.0,0.0,0.0,0.0,0.0,112.0
+dhoot pratham,1.0,bt road,6578.0,3.0,2.0,1,2.0,North,Relatively New,North,1300.0,1.0,0.0,0.0,0.0,0.0,0.0,132.0
+primarc astitva,2.9,kankurgachi,16880.0,3.0,3.0,1,3.0,West,Relatively New,North,1470.0,0.0,0.0,0.0,0.0,0.0,0.0,87.0
+sherwood estate,0.3,narendrapur,5357.0,1.0,1.0,0,1.0,West,Moderately Old,South,479.0,0.0,0.0,0.0,0.0,0.0,0.0,113.0
+sherwood estate,0.47,narendrapur,5222.0,2.0,2.0,1,4.0,North-West,Moderately Old,South,770.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0
+team taurus wow,0.42,rajarhat,3780.0,2.0,3.0,1,2.0,South,Relatively New,East,950.0,0.0,0.0,0.0,0.0,0.0,0.0,63.0
+magnolia sky view,0.48,omarhati,4979.0,2.0,2.0,1,3.0,South-East,Moderately Old,East,825.0,0.0,0.0,0.0,0.0,0.0,0.0,69.0
+siddha galaxia,0.9,rajarhat,7512.0,3.0,2.0,2,8.0,South-West,Relatively New,East,1025.0,0.0,0.0,0.0,0.0,0.0,0.0,69.0
+sherwood estate,0.55,narendrapur,5213.0,2.0,2.0,1,4.0,North-West,Moderately Old,South,902.0,0.0,0.0,0.0,0.0,0.0,0.0,142.0
+ideal grand,0.9,howrah,7692.0,2.0,2.0,1,9.0,South-West,Moderately Old,West,1001.0,0.0,0.0,0.0,0.0,1.0,2.0,128.0
+natural city lake town,0.9,lake town,6993.0,3.0,2.0,1,9.0,South-East,Relatively New,North,1101.0,0.0,0.0,0.0,0.0,1.0,0.0,128.0
+natural city lake town,0.7,lake town,7329.0,2.0,2.0,1,4.0,North,Relatively New,North,817.0,0.0,0.0,0.0,0.0,1.0,0.0,129.0
+natural city lake town,1.33,lake town,7291.0,4.0,3.0,1,6.0,South-West,Relatively New,North,1560.0,0.0,0.0,0.0,0.0,1.0,0.0,54.0
+ruchi active acres tangra,1.05,tangra,6981.0,2.0,2.0,1,3.0,South,Moderately Old,East,1287.0,0.0,0.0,0.0,0.0,1.0,1.0,54.0
+active acres,1.35,em bypass,7701.0,3.0,2.0,1,20.0,West,Relatively New,East,1500.0,0.0,0.0,0.0,0.0,1.0,1.0,54.0
+active acres,1.3,em bypass,7415.0,3.0,3.0,1,8.0,East,Relatively New,East,1500.0,0.0,0.0,0.0,0.0,0.0,1.0,128.0
+ruchi active acres tangra,1.3,tangra,7398.0,3.0,2.0,1,5.0,South-East,Moderately Old,East,1503.0,0.0,0.0,1.0,0.0,0.0,0.0,63.0
+on request new,0.55,madurdaha,4382.0,3.0,2.0,1,1.0,South-East,Relatively New,South,1074.0,0.0,0.0,0.0,0.0,1.0,0.0,71.0
+on request new,0.44,madurdaha,5000.0,2.0,2.0,1,2.0,South-East,Relatively New,South,746.0,0.0,0.0,0.0,0.0,1.0,0.0,70.0
+on request,0.5,madurdaha,4237.0,3.0,2.0,1,3.0,South,Moderately Old,South,1009.0,0.0,0.0,0.0,0.0,1.0,0.0,69.0
+south city,2.0,pr,12634.0,3.0,3.0,1,25.0,North-East,Old Property,South,1354.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0
+on request,0.48,garia,3840.0,3.0,2.0,1,3.0,South-West,Old Property,South,1122.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0
+niramay apartment,0.64,garia,5333.0,3.0,2.0,1,3.0,South-East,Old Property,South,1027.0,0.0,0.0,0.0,0.0,0.0,2.0,25.0
+star apartment,0.68,naktala,5440.0,3.0,3.0,2,2.0,South,New Property,South,1069.0,0.0,0.0,0.0,0.0,0.0,0.0,46.0
+on request,1.6,mandevilla garden,10322.0,3.0,3.0,1,3.0,North,Old Property,South,1326.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0
+sudha apartment,0.78,patuli,6240.0,3.0,2.0,1,3.0,South-West,Old Property,South,1069.0,0.0,0.0,0.0,0.0,0.0,2.0,5.0
+on request,0.15,ramgarh,2727.0,1.0,1.0,0,3.0,South-East,Moderately Old,South,470.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0
+on request,0.38,naktala,4000.0,2.0,2.0,1,1.0,West,Old Property,South,813.0,0.0,0.0,0.0,0.0,0.0,0.0,54.0
+skyline lakeview,0.56,mahamayatala,4850.0,3.0,2.0,1,4.0,South,Relatively New,South,991.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0
+on request,0.32,garia,3900.0,2.0,2.0,1,1.0,South-West,New Property,South,707.0,0.0,0.0,0.0,0.0,0.0,0.0,33.0
+on request,0.46,mahamayatala,4789.0,2.0,2.0,1,2.0,North-West,Relatively New,South,813.0,0.0,0.0,0.0,0.0,0.0,2.0,54.0
+skyline lakeview,0.47,mahamayatala,4850.0,2.0,2.0,1,4.0,South,Relatively New,South,823.0,0.0,0.0,0.0,0.0,0.0,0.0,64.0
+satyam shivam sundaram apartment garia,0.36,garia,4235.0,2.0,2.0,1,3.0,West,Old Property,South,727.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0
+on request,0.42,naktala,5250.0,2.0,2.0,1,1.0,West,Relatively New,South,684.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0
+garia sanjib,0.7,garia,6200.0,3.0,2.0,1,3.0,East,New Property,South,967.0,0.0,0.0,0.0,0.0,0.0,0.0,33.0
+dev apartment,0.29,garia,3918.0,2.0,2.0,1,3.0,South-West,New Property,South,633.0,0.0,0.0,0.0,0.0,0.0,0.0,77.0
+city high apartment,3.0,tollygunge,13888.0,4.0,3.0,2,5.0,North,Old Property,South,1848.0,0.0,0.0,0.0,0.0,0.0,1.0,32.0
+on request,0.42,ramchandrapur,3716.0,3.0,2.0,1,2.0,North,Moderately Old,South,967.0,0.0,0.0,0.0,0.0,0.0,0.0,75.0
+ekta floral,3.8,tangra,12377.0,5.0,4.0,2,1.0,North-West,Moderately Old,East,2626.0,1.0,0.0,0.0,0.0,0.0,1.0,77.0
+sgil gardenia,0.41,narendrapur,4540.0,2.0,2.0,1,6.0,East,Relatively New,South,772.0,0.0,0.0,0.0,0.0,0.0,0.0,77.0
+sgil gardenia,0.47,narendrapur,4072.0,3.0,2.0,1,6.0,East,Relatively New,South,987.0,0.0,0.0,0.0,0.0,0.0,0.0,46.0
+on request,1.55,ballygunge,12380.0,3.0,2.0,1,3.0,South,Old Property,South,1071.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0
+"gita apartment,",0.52,tollygunge,4160.0,3.0,2.0,1,4.0,West,Old Property,South,1069.0,0.0,0.0,0.0,0.0,0.0,0.0,75.0
+ekta heights,1.25,jadavpur,8383.0,3.0,2.0,1,10.0,South,Old Property,South,1275.0,0.0,0.0,0.0,0.0,0.0,2.0,125.0
+ekta heights,1.12,jadavpur,8888.0,2.0,2.0,1,7.0,South-East,Old Property,South,1078.0,0.0,0.0,0.0,0.0,0.0,1.0,34.0
+residential flat,1.9,southern avenue,10555.0,4.0,3.0,2,2.0,North,Relatively New,South,1540.0,0.0,0.0,0.0,0.0,0.0,2.0,83.0
+starlite sunny dew,0.75,panchasayar,5172.0,3.0,2.0,1,1.0,South-East,Relatively New,South,1300.0,0.0,0.0,0.0,0.0,0.0,0.0,128.0
+citrus cove,0.5,kamalgazi,5370.0,2.0,2.0,1,4.0,South-East,Relatively New,South,820.0,0.0,0.0,0.0,0.0,0.0,0.0,140.0
+citrus cove,0.75,kamalgazi,5747.0,3.0,2.0,2,1.0,North-East,Moderately Old,South,1200.0,0.0,0.0,0.0,0.0,0.0,0.0,140.0
+avani victoria greens,0.5,garia,5428.0,2.0,2.0,1,4.0,North-East,Moderately Old,South,800.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+on request,0.85,new town,5312.0,3.0,2.0,2,7.0,South-East,Relatively New,East,1369.0,0.0,0.0,0.0,0.0,0.0,0.0,54.0
+the 102,0.65,joka,5718.0,3.0,3.0,2,9.0,East,Relatively New,South,930.0,0.0,0.0,0.0,0.0,1.0,0.0,134.0
+dtc southern heights,0.6,joka,5300.0,3.0,2.0,1,8.0,West,Relatively New,South,905.0,0.0,0.0,0.0,0.0,1.0,0.0,54.0
+dtc southern heights,0.62,joka,5486.0,3.0,2.0,1,1.0,North-East,Relatively New,South,905.0,0.0,0.0,0.0,0.0,1.0,0.0,54.0
+the 102,0.5,joka,5518.0,2.0,2.0,2,2.0,South-West,Relatively New,South,747.0,0.0,0.0,0.0,0.0,1.0,0.0,54.0
+the 102,0.66,joka,5851.0,3.0,2.0,3,8.0,East,Relatively New,South,930.0,0.0,0.0,0.0,0.0,1.0,0.0,54.0
+the 102,0.68,joka,6028.0,3.0,2.0,3,13.0,South-West,Relatively New,South,965.0,0.0,0.0,0.0,0.0,1.0,0.0,104.0
+citrus cove,0.74,kamalgazi,5674.0,3.0,2.0,2,4.0,North-West,Relatively New,South,1200.0,0.0,0.0,0.0,0.0,0.0,0.0,126.0
+starlite sunny dew,0.75,panchasayar,5084.0,3.0,2.0,1,1.0,North-East,Moderately Old,South,1350.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+ambuja upohar high end society,2.85,garia,7803.0,4.0,4.0,3+,10.0,South-East,Old Property,South,2834.0,0.0,0.0,0.0,0.0,1.0,0.0,142.0
+eden pavilion,0.6,fartabad,4743.0,3.0,2.0,1,1.0,South-East,Relatively New,South,1067.0,0.0,0.0,0.0,0.0,1.0,0.0,26.0
+greenfield city,0.51,behala,4670.0,3.0,2.0,1,3.0,South-West,Relatively New,South,841.0,0.0,0.0,0.0,0.0,0.0,0.0,60.0
+ruchi active greens,0.65,em bypass,5603.0,2.0,2.0,1,7.0,North-West,Moderately Old,East,992.0,0.0,0.0,0.0,0.0,1.0,0.0,32.0
+prantik apartment bansdroni,0.16,bansdroni,3030.0,1.0,1.0,1,3.0,South-East,Moderately Old,South,452.0,0.0,0.0,0.0,0.0,0.0,0.0,135.0
+siddha town,0.36,rajarhat,4615.0,2.0,2.0,1,3.0,South-West,Relatively New,East,667.0,0.0,0.0,0.0,0.0,0.0,0.0,109.0
+sugam sudhir,1.05,garia,7720.0,3.0,2.0,1,4.0,South-East,Moderately Old,South,1163.0,0.0,0.0,0.0,0.0,0.0,0.0,27.0
+residential apartment,1.4,ballygunge,9032.0,3.0,2.0,1,2.0,East,Old Property,South,1426.0,0.0,0.0,0.0,1.0,0.0,0.0,21.0
+ideal regency,0.68,behala,4705.0,3.0,3.0,1,1.0,East,Relatively New,South,1236.0,0.0,0.0,0.0,0.0,0.0,0.0,123.0
+highland green river bank,0.23,batanagar,3230.0,2.0,2.0,1,6.0,North-West,Relatively New,South,548.0,0.0,0.0,0.0,0.0,0.0,1.0,47.0
+ambika kanaklata abasan,0.16,baguiati,3720.0,1.0,1.0,1,1.0,East,Old Property,North,461.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0
+"75,c-1,chotushkone",0.21,ramchandrapalli,3412.0,1.0,1.0,0,0.0,North-West,Moderately Old,South,539.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+diamond apartments,0.45,behala,4285.0,3.0,2.0,1,3.0,South,Old Property,South,986.0,0.0,0.0,0.0,0.0,0.0,0.0,49.0
+active acres,1.75,em bypass,8086.0,3.0,2.0,1,13.0,South-West,Relatively New,East,1600.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+"megha apartment,santoshpur",0.3,new santoshpur,4761.0,2.0,1.0,1,2.0,South-East,Old Property,South,539.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0
+ideal abasan,0.32,rajarhat,3721.0,2.0,2.0,1,1.0,North,Under Construction,East,736.0,0.0,0.0,0.0,0.0,1.0,0.0,104.0
+krishna apartment,0.16,sodepur,3076.0,2.0,1.0,1,1.0,South-East,Old Property,North,445.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0
+"27a, hindustan road",0.7,gariahat,8750.0,3.0,1.0,0,2.0,South,Old Property,South,900.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+durga apartment,0.33,behala,3666.0,3.0,2.0,1,1.0,East,Old Property,South,770.0,0.0,0.0,0.0,0.0,0.0,2.0,27.0
+"star apartment, 3/94 jatin das nagar,belgharia",0.2,jat,3333.0,2.0,2.0,0,4.0,East,Old Property,North,513.0,0.0,0.0,0.0,0.0,0.0,0.0,121.0
+sapphire blue apartment,0.91,rajarhat,5705.0,4.0,3.0,2,4.0,North-West,Old Property,East,1424.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+deeshari megacity,0.45,em bypass,3975.0,3.0,2.0,2,5.0,South-West,Relatively New,South,968.0,0.0,0.0,0.0,0.0,0.0,0.0,96.0
+mani residency,1.3,topsia,7788.0,3.0,3.0,2,3.0,South-East,Moderately Old,South,1373.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0
+anjan apartment bhawanipore,1.6,bhawanipore,10389.0,4.0,3.0,1,3.0,East,Old Property,South,1480.0,1.0,0.0,0.0,0.0,0.0,2.0,54.0
+team taurus bou thakuranir haat,0.37,rajarhat,3790.0,2.0,2.0,1,3.0,East,New Property,East,835.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+zinnia,0.14,tollygunge,3500.0,1.0,1.0,0,0.0,South-East,New Property,South,342.0,0.0,0.0,0.0,0.0,1.0,0.0,54.0
+alcove new kolkata prayag,0.4,serampore,4524.0,2.0,2.0,1,11.0,South-West,New Property,West,736.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+star green,0.64,rajarhat,4400.0,3.0,2.0,2,2.0,West,Relatively New,East,1186.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0
+ambuja uddipa the condoville,0.85,s,9249.0,2.0,2.0,1,15.0,South-West,New Property,North,754.0,0.0,0.0,0.0,0.0,1.0,0.0,20.0
+sukanti,0.39,dum dum,4431.0,2.0,2.0,1,2.0,South,New Property,North,909.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0
+white house,0.24,new town,2800.0,2.0,2.0,1,2.0,South-East,Old Property,North,727.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0
+basundha,0.23,rajarhat,2045.0,2.0,1.0,1,3.0,South-East,Moderately Old,East,922.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+sukanti,0.45,dum dum,4554.0,2.0,2.0,1,3.0,North,New Property,North,995.0,0.0,0.0,0.0,0.0,0.0,0.0,35.0
+kalpotaru apartment,0.38,baguiati,4237.0,2.0,2.0,1,4.0,South-West,Old Property,East,757.0,0.0,0.0,0.0,0.0,0.0,0.0,33.0
+freshia,0.43,rajarhat,5494.0,2.0,2.0,1,1.0,East,New Property,East,650.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+charulata,0.27,behala,3857.0,2.0,2.0,1,1.0,South-East,New Property,South,599.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ramkrishna apartment,0.38,joka,4750.0,2.0,2.0,1,1.0,South-East,Relatively New,South,684.0,0.0,0.0,0.0,0.0,0.0,0.0,78.0
+radha apartment,0.24,mankundu,2902.0,2.0,2.0,1,4.0,East,Moderately Old,West,707.0,0.0,0.0,0.0,0.0,0.0,0.0,121.0
+the 102,0.55,joka,6849.0,2.0,2.0,1,2.0,North-East,Relatively New,South,602.0,1.0,0.0,0.0,0.0,0.0,0.0,6.0
+dumdum metro,0.27,dum dum,3292.0,2.0,1.0,1,3.0,South-East,Moderately Old,North,701.0,0.0,0.0,0.0,0.0,0.0,0.0,72.0
+4sight olivia,0.57,garia,5000.0,2.0,2.0,1,1.0,North-East,Relatively New,South,895.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+manjil abasan (apartment),0.25,dum dum,3703.0,2.0,1.0,1,4.0,South-East,Old Property,North,571.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"anjali apartment,jadavghar",0.15,haltu,2884.0,2.0,1.0,0,2.0,South,Moderately Old,South,500.0,0.0,0.0,0.0,1.0,0.0,0.0,145.0
+ircon tower,1.25,new town,12500.0,3.0,2.0,2,3.0,East,Moderately Old,East,1172.0,0.0,0.0,0.0,0.0,0.0,1.0,108.0
+sarala apartment,0.7,"behala, behala",5833.0,3.0,3.0,2,3.0,East,Moderately Old,South,1095.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+tapoban apartments,0.65,rajarhat,6701.0,3.0,2.0,2,3.0,North-East,Moderately Old,East,1077.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+solaris city serampore,0.24,serampore,3750.0,2.0,1.0,1,5.0,South,Under Construction,West,624.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+shiv parvati abasan,0.09,bhadreswar,2143.0,1.0,1.0,1,1.0,South,Relatively New,West,410.0,1.0,0.0,0.0,0.0,0.0,0.0,31.0
+"ashirbad apartment, apc road. agarpara, pin700109",0.16,agarpara,2116.0,2.0,1.0,1,2.0,North,Old Property,South,679.0,0.0,0.0,0.0,0.0,1.0,0.0,74.0
+monalisa apartment,1.79,phoolbagan,9887.0,3.0,2.0,3,4.0,North-East,Old Property,North,1289.0,0.0,0.0,0.0,1.0,1.0,1.0,12.0
+kiran apartment,0.24,nowdapara,4224.0,2.0,1.0,1,3.0,North-East,Relatively New,North,633.0,0.0,0.0,0.0,0.0,0.0,0.0,92.0
+bijoya apartment,0.33,santoshpur,5116.0,2.0,1.0,0,1.0,South,Relatively New,West,558.0,0.0,0.0,0.0,0.0,0.0,0.0,63.0
+ambey residency,0.54,ch,5042.0,2.0,2.0,1,4.0,North,Moderately Old,East,1012.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+myfair blossom,0.35,garia,3888.0,2.0,2.0,1,2.0,South,Moderately Old,South,770.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+magnolia nakshatra,0.35,barasat,3638.0,3.0,3.0,2,1.0,North-East,New Property,North,823.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+sreema apartments,0.2,dum dum,2600.0,2.0,2.0,1,2.0,South-East,Moderately Old,North,642.0,0.0,1.0,0.0,0.0,0.0,0.0,29.0
+nul,0.75,tagore park,8823.0,2.0,2.0,1,1.0,North,Relatively New,South,886.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+ashadeep apartment,0.4,ballygunge,6153.0,2.0,1.0,1,3.0,West,Old Property,South,556.0,0.0,0.0,0.0,0.0,1.0,0.0,34.0
+bengal abasan urban sabujayan,0.84,mukundapur,6600.0,3.0,2.0,1,4.0,South,Relatively New,South,1300.0,0.0,0.0,0.0,0.0,0.0,1.0,148.0
+bengal abasan urban sabujayan,0.85,mukundapur,6756.0,3.0,2.0,1,4.0,South,Under Construction,South,1076.0,0.0,0.0,0.0,0.0,0.0,1.0,42.0
+sureka sunrise heights,2.0,beleghata,9354.0,4.0,4.0,2,16.0,South-East,Relatively New,East,1625.0,0.0,1.0,0.0,0.0,0.0,0.0,47.0
+meridian splendora,1.3,paikpara,9292.0,3.0,2.0,2,14.0,South-East,New Property,North,1050.0,0.0,0.0,0.0,0.0,0.0,1.0,6.0
+lalbagan pally,0.12,kumartuli(sovabazar sutanuti metro),3593.0,2.0,1.0,0,2.0,South-East,New Property,North,289.0,0.0,0.0,0.0,0.0,0.0,0.0,109.0
+reside aponaloy,0.39,madhyamgram,3497.0,3.0,2.0,1,0.0,East,Old Property,North,927.0,0.0,0.0,0.0,0.0,0.0,1.0,18.0
+neelachal abasan chs,0.9,kasba,9473.0,2.0,2.0,1,2.0,West,Old Property,South,1029.0,1.0,0.0,0.0,0.0,0.0,2.0,21.0
+masterda surya sen,0.32,dum dum,4000.0,2.0,2.0,1,0.0,East,Moderately Old,North,850.0,0.0,0.0,0.0,1.0,0.0,2.0,13.0
+hiland greens,0.25,maheshtala,3511.0,2.0,2.0,1,3.0,North-East,Relatively New,South,557.0,0.0,0.0,0.0,0.0,0.0,0.0,37.0
+anandam,0.45,behala,4849.0,2.0,2.0,1,1.0,North-West,Moderately Old,South,794.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+magnolia nakshatra,0.26,barasat,2702.0,3.0,2.0,1,2.0,North-East,New Property,North,793.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+rainbow residency,0.27,kudghat,3174.0,2.0,2.0,0,4.0,South-West,Moderately Old,West,787.0,0.0,0.0,0.0,0.0,0.0,0.0,131.0
+karunamoyee housing society,0.7,salt lake,5932.0,4.0,2.0,1,4.0,North-East,Old Property,North,1201.0,0.0,0.0,0.0,0.0,0.0,2.0,140.0
+ambuja utalika the condoville,4.0,mukundapur,15031.0,3.0,4.0,1,18.0,East,New Property,South,2083.0,0.0,1.0,1.0,0.0,0.0,0.0,54.0
+twin tower,0.21,picnic garden,4835.0,1.0,1.0,1,4.0,South-East,Moderately Old,South,442.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+apartment,0.35,mahamayatala,4181.0,2.0,2.0,2,2.0,North-West,Old Property,South,728.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+swaranika housing,0.3,behala,3875.0,2.0,2.0,1,0.0,North,Old Property,South,662.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0
+"sagar kunj apartment, haridevpur, paschim putiary",0.36,haridevpur,3977.0,2.0,2.0,1,2.0,North-East,Moderately Old,South,774.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
